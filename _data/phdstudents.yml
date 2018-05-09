@@ -1,0 +1,14 @@
+- name: Mao Ye
+  photo: mye.jpg
+  info: Mao got her Computer Science Master degree from UCF. Her research interests is non-volatile memory system, file system, and security. She got her bachelor degree from Zhejiang University.  Before she joined the lab she worked several years in IT infrastructure department of a national bank in China.
+  email: 
+  number_educ: 0
+  education1: 
+
+- name: Derrick Greenspan
+  photo: dgreenspan.jpg
+  info: Derrick Greenspan is currently pursuing a Ph.D in Computer Science. He currently has a Bachelors in Computer Science from the University of Central Florida. His research interests include Non-  Volatile Memory Technologies, Operating Systems, and Multicore Programming.
+  email: 
+  number_educ: 0
+  education1:
+
