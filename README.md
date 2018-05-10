@@ -21,6 +21,16 @@ Once all of that is said and done you can use the following to host the website 
 
 Then you can navigate your browser to 127.0.0.1:4000 to see the site.
 
+### Adding Master's Students
+
+In this part of the tutorial, I'm adding a master's students field and moving Vamsee over to it. 
+
+I first created the yaml file for master's students and named it _masterstudents.yml_ in the /\_data directory. Next I simply moved over the data for him to that file. He still won't show up at this point, that is because I hadn't added master's students to the page. 
+
+To add master's students to the page, I modified \_pages/team.md to have another field, by copying and pasting the field for Ph.D. students, then changing which data file it grabs data from, by changing _phdstudents.yml_ to _masterstudents.yml_. 
+
+I am not sure if we want to list past education experience for users, so a large bulk of each one of those blocks (for director, phd, masters, and undergrad) in the file is legacy from testing. I'll safely remove these soon more than likely to make the code simpler.
+
 ### Adding a Ph.D. student
 
 To add Vamsee to the Ph.D. student list, I first add his image to /images/teampic/. You can see that I've added vamsee.jpg in this commit. Next I add the content for his bio to phdstudents.yml which is a yaml file that holds the data for each student. 
