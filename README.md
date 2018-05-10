@@ -2,6 +2,16 @@
 
 This branch will be showing how to modify the website and it's content. I will also detail the steps I've taken at each step.
 
+### Good to know before modifying
+
+This site uses jekyll and github pages to function. Knowing the following is very helpful in being able to make edits to the site (in order of importance):
+
+* git
+* Markdown
+* html
+
+[Here is a useful site for testing markdown](https://pandao.github.io/editor.md/en.html)
+
 ### Testing the site locally
 
 To test the site locally you'll need to have a few things installed
@@ -20,6 +30,28 @@ Once all of that is said and done you can use the following to host the website 
 ```bundle exec jekyll serve```
 
 Then you can navigate your browser to 127.0.0.1:4000 to see the site.
+
+### Adding/changing text content
+
+To modify the text in (most) pages, you'll need to modify the respective markdown file in /\_pages/. In this example, I've removed IoT research (we shouldn't actually do this), decided it might be nicer to have larger subtitles, and then added a link to the Wikipdia article for supercomputers. 
+
+The page that is the most complex is the research page, this is because it includes data elements, as well as html (which any of the other files can include as well!).
+
+Each page will start with a heading that looks like the following:
+
+```
+---
+title: "SACA - Home"
+layout: homelay
+excerpt: "Secure and Advanced Computer Architecture (SACA) Research Group."
+sitemap: false
+permalink: /
+---
+```
+
+The title is the title of the website to the browser and search results. The layout will be the html layout which this page fits into before being rendered (most will inherit textlay.html, that's the one for text based pages). The excerpt is the description that will be shown on google and other search engines. The sitemap field mandates whether this will be added to the sitemap.xml which doesn't actually generate currently (this shouldn't matter as of now). Finally, the permalink is the sub-url at which the page will be located, for example team.md is actually located at /members/.
+
+If there are any questions with any of this, please e-mail me, or raise an issue on this branch! This is probably the most complex part of the site, but hopefully all we will need to do from here on out is edit markdown.
 
 ### Adding Master's Students
 
