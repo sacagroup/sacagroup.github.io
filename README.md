@@ -31,6 +31,12 @@ Once all of that is said and done you can use the following to host the website 
 
 Then you can navigate your browser to 127.0.0.1:4000 to see the site.
 
+### Adding news
+
+To add news to the site you'll want to edit /\_data/news.yml
+
+By default the nine most recent news posts will be shown on the home page. To change this limit, edit /\_includes/news.html and change ```limit:9``` to ```limit:n``` where n is the number of news articles which you want to article. You'll need a few fields for each news piece you want to feature, a date, the headline, and the description (named decr).
+
 ### Adding/changing text content
 
 To modify the text in (most) pages, you'll need to modify the respective markdown file in /\_pages/. In this example, I've removed IoT research (we shouldn't actually do this), decided it might be nicer to have larger subtitles, and then added a link to the Wikipdia article for supercomputers. 
