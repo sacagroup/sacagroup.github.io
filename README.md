@@ -31,6 +31,21 @@ Once all of that is said and done you can use the following to host the website 
 
 Then you can navigate your browser to 127.0.0.1:4000 to see the site.
 
+### Modifying the home slideshow
+
+To do this you'll need to edit /\_layouts/home.html, and add the image you wish to feature to the images folder under some directory (I'm using /images/slider7001400/ for this example). I am unsure how different image height to width ratios will look on other devices, to be safe I've stuck with using images cropped and resized to 1500x500px.
+
+It is a bit more manual than other steps, and requires editing HTML. 
+
+In homelay.html you'll want to add two things: 
+
+* A list item under carousel-indicators, so a user can see there is another image in the slideshow
+* A div for the item with the image inside. 
+
+You can change the image by changing the src attribute of the inner img. There can only be one item active picture, which should be the first in the list and is the first visible to a user when they navigate to the side.
+
+The accompanying commit should showcase these changes, if there is any confusion or problems with this, please reach out to me.
+
 ### Adding news
 
 To add news to the site you'll want to edit /\_data/news.yml
