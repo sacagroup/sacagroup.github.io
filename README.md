@@ -35,7 +35,7 @@ Then you can navigate your browser to 127.0.0.1:4000 to see the site.
 
 To add a sponsor you'll first need their logo, optionally a logo for the footer, and then you're ready to make the two modifications needed to add it to the site.
 
-You can add the logo to the home page by adding an image tag to the /\_layouts/home.md, if you wrap it in <a href> tags, you can make a link to their website as well (this is done in the commit). The image will need to be added within a paragraph tag that wraps all of the sponsors, which is a bug found with the site. Shortly after this is added to the test branch this should be fixed in the main branch.
+You can add the logo to the home page by adding an image tag to the /\_layouts/home.md, if you wrap it in a (link) tags, you can make a link to their website as well (this is done in the commit). The image will need to be added within a paragraph tag that wraps all of the sponsors, which is a bug found with the site. Shortly after this is added to the test branch this should be fixed in the main branch.
 
 Next to add it to the footer, modify /\_includes/footer.html and add a similar a and image tag in the sponsors section. If there is another image to be used for the footer (one that is more square, etc), then you can change the image tag to reflect the path of the correct image.
 
