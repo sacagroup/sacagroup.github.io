@@ -31,6 +31,18 @@ Once all of that is said and done you can use the following to host the website 
 
 Then you can navigate your browser to 127.0.0.1:4000 to see the site.
 
+### Adding a new sponsor (also how to take one away)
+
+To add a sponsor you'll first need their logo, optionally a logo for the footer, and then you're ready to make the two modifications needed to add it to the site.
+
+You can add the logo to the home page by adding an image tag to the /\_layouts/home.md, if you wrap it in <a href> tags, you can make a link to their website as well (this is done in the commit). The image will need to be added within a paragraph tag that wraps all of the sponsors, which is a bug found with the site. Shortly after this is added to the test branch this should be fixed in the main branch.
+
+Next to add it to the footer, modify /\_includes/footer.html and add a similar a and image tag in the sponsors section. If there is another image to be used for the footer (one that is more square, etc), then you can change the image tag to reflect the path of the correct image.
+
+For both of these, you will likely need to play with heights and widths of the images, I've gone ahead and done these for these images (see the style="" in the iamge tags), and then play around with the local copy of the website by chanigng the browser width and height before finally pushing it to production (the master branch).
+
+To remove a sponsor, simply remove the a and image tags for the respective sponsor that is no longer actually a sponsor.
+
 ### Modifying the home slideshow
 
 To do this you'll need to edit /\_layouts/home.html, and add the image you wish to feature to the images folder under some directory (I'm using /images/slider7001400/ for this example). I am unsure how different image height to width ratios will look on other devices, to be safe I've stuck with using images cropped and resized to 1500x500px.
