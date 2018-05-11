@@ -18,7 +18,9 @@ Our Sponsors:
 
 <figure class="fourth">
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sponsorlogo.jpg" style="width: 120px">-->
-  <a href="http://www.sandia.gov"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sandia.svg" style="width=120px"></a>
+  <p>
+    <a href="http://www.sandia.gov"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sandia.svg" style="width=120px"></a>
+  </p>
 </figure>
 
 
