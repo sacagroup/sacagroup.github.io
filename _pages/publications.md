@@ -12,8 +12,16 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  <!-- remove this html comment when ready {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>-->
+  <b>[{{ publi.link.display }}] </b> &nbsp;
+  <a href="{{ publi.link.url }}">{{ publi.title }}</a><br /><em>{{ publi.authors }} </em>
 
 {% endfor %}
 
+# Patents
+
+{% for pats in site.data.patents %}
+
+  <b> {{ pats.title }} </b>
+  <br /><em>{{ pats.number }} </em>
+
+{% endfor %}
