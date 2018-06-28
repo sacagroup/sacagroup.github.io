@@ -20,6 +20,7 @@ Our Sponsors:
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sponsorlogo.jpg" style="width: 120px">-->
   <p>
     <a href="http://www.sandia.gov"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sandia.svg" style="width=120px"></a>
+    <a href="http://www.navsea.navy.mil/Home/Warfare-Centers/"><img src="{{ site.url }}{{ site.baseurl}}/images/logopic/NSWC_logo.png" style = "width: 90px;"></a>
   </p>
 </figure>
 
