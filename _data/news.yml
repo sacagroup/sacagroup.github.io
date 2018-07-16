@@ -1,3 +1,11 @@
+- date: July 16, 2018
+  headline: "Andrew and others kick start a Navy-supported project to enable deterministic performance in cloud systems."
+  descr: "Non-determinism in cloud systems can limit the usage of such systems in some applications. Our project aims to help alleviate this problem."
+
+- date: July 16, 2018
+  headline: "NSF awards SACA a research grant to explore security and privacy of Non-Volatile Memory Systems."
+  descr: "We would like to thank the National Science Foundation for their grant. For more information on NVM systems, please see [this](/research/)."
+
 - date: June 28, 2018
   headline: "SACA receives a research grant from the Navy Surface Warfare Center"
   descr: "SACA receives a research grant from the Navy Surface Warfare Center to study the isolation of critical applications on cloud systems."
