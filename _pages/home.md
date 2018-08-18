@@ -8,9 +8,9 @@ permalink: /
 
 We are the Secure and Advanced Computer Architecture (SACA) Research Group, a research lab located at the University of Central Florida.
 
-Our research group works on cutting-edge problems in computer architecture, with a focus on secure archtictectures and memory systems. [More information about our research]({{ site.url }}{{ site.baseurl }}/research/).
+Our research group works on cutting-edge problems in computer architecture, with a focus on secure architectures and memory systems. [More information about our research]({{ site.url }}{{ site.baseurl }}/research/). SACA members have been actively publishing in the most prestigious and top-tier computer architecture conferences.
 
-Currently SACA has three Ph.D. students and three undergraduate interns from renowned national programs and academic clubs. [Our group members]({{ site.url }}{{ site.baseurl }}/members/).
+Currently SACA has four Ph.D. students and four undergraduate interns from renowned national programs and academic clubs. [Our group members]({{ site.url }}{{ site.baseurl }}/members/). We are actively looking for self-motivated Ph.D. students with solid background in computer architecture and interest in doing cutting-edge research. Promising Ph.D. applicants will be fully-funded (salary + tuition).
 
 For more information, please feel free to [contact us]({{ site.url }}{{ site.baseurl}}/contact/).
   
