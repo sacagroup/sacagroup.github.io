@@ -4,7 +4,15 @@
     Mao Ye, Clayton Hughes, and Amro Awad
   link:
     url: https://www.microarch.org/micro51/
-    display: MICRO-2018
+    display: MICRO-2018 (Top-Tier Conference)
+
+- title: "Analyzing Exascale Memory Architectures Using the SST Toolkit"
+  description: ""
+  authors:
+    Clayton Hughes, Amro Awad, Simon David Hammond, Arun F. Rodrigues, Karl Scott Hemmert, Robert J. Hoekstra
+  link:
+   url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/siam_18.03.pptx
+   display: SIAM-2018
 
 - title: "Performance Analysis for Using Non-Volatile Memory DIMMs: Opportunities and Challenges"
   description: "Quick abstract/description"
@@ -20,7 +28,7 @@
     Amro Awad, Arkaprava Basu, Sergey Blagodurov, Yan Solihin and Gabriel H. Loh.
   link:
     url: https://docs.google.com/a/ncsu.edu/viewer?a=v&pid=sites&srcid=bmNzdS5lZHV8YWphd2FkfGd4OjMwOWNkOGJjZTlhNmM0MDY
-    display: PACT-2017
+    display: PACT-2017 (Top-Tier Conference)
 
 - title: "ObfusMem: A Low-Overhead AccessObfuscation for Trusted Memories"
   description: "Quick abstract/description"
@@ -28,7 +36,7 @@
     Amro Awad, Yipeng Wang, Deborah Shands and Yan Solihin.
   link:
     url: https://docs.google.com/a/ncsu.edu/viewer?a=v&pid=sites&srcid=bmNzdS5lZHV8YWphd2FkfGd4OjE0MTMyMzMwNWQ2ODcwODI
-    display: ISCA 2017
+    display: ISCA 2017 (Top-Tier Conference)
 
 - title: "Clone morphing: Creating new workload behavior from existing applications"
   description: "Quick abstract/description"
@@ -52,7 +60,7 @@
     Amro Awad, Sergey Blagodurov and Yan Solihin.
   link:
     url: https://sites.google.com/site/amroawad/publications/sig-alternate-sample.pdf?attredirects=0
-    display: ICS 2016
+    display: ICS 2016 (Top-Tier Conference)
 
 - title: "Silent Shredder: Zero-Cost Shredding for Secure Non-Volatile Main Memory Controllers"
   description: "Quick abstract/description"
@@ -60,7 +68,7 @@
     Amro Awad, Pratyusa Mandthata, Yan Solihin, Stuart Haber and William Horne.
   link:
     url: https://www.labs.hpe.com/techreports/2015/HPL-2015-71R1.pdf
-    display: ASPLOS-21
+    display: ASPLOS-2016 (Top-Tier Conference)
 
 - title: "Non-Volatile Memory Host Controller Interfaces Performance Analysis in High-Performance I/O Systems"
   description: "Quick abstract/description"
@@ -76,7 +84,7 @@
     
   link:
     url: https://ieeexplore.ieee.org/document/6835935/
-    display: HPCA-20
+    display: HPCA-2014 (Top-Tier Conference)
 
 - title: "Lifetime Asymmetry when using STT-RAM as Last-Level Cache"
   description: "Quick abstract/description"
