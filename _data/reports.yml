@@ -1,0 +1,15 @@
+- title: "Opal: A Centralized Memory Manager for Investigating Disaggregated Memory Systems"
+  description: ""
+  authors: Vamsee R. Kommareddy, Clayton Hughes, Simon David Hammond, Amro Awad.
+    
+  link:
+    url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/sst-opal_SAND.pdf
+    display: SAND2018-9199
+
+- title: "Lifetime Asymmetry when using STT-RAM as Last-Level Cache"
+  description: ""
+  authors: Amro Awad, Brett Kettering, Yan Solihin.
+    
+  link:
+    url: 
+    display: LA-UR-14-29318
