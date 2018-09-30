@@ -199,8 +199,18 @@ permalink: /members/
 </div>
 {% endif %}
 
+## Past Members
+<table align="center" style="width:100%">
+<tr> 
+    <th>Undergraduate Students</th>
+  </tr>
+  <tr>
+    <td>Sannidiyan Rajendra, Spring 2018</td>
+  </tr>
+</table>
+
+
 <!--
-## Alumni
 <table align="center" style="width:100%">
 <tr><th>Ph.D. Students</th>
     <th>Master Students</th> 
@@ -213,7 +223,6 @@ permalink: /members/
   </tr>
 </table>
 -->
-
 
 
 
