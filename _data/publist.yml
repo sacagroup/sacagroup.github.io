@@ -1,3 +1,11 @@
+- title: "Exploring Allocation Policies in Disaggregated Non-Volatile Memories"
+  description: ""
+  authors:
+    Vamsee Reddy, Clayton Hughes, Simon Hammond and Amro Awad
+  link:
+    url: https://passlab.github.io/mchpc/mchpc2018/
+    display: MCHPC-2018
+
 - title: "Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories"
   description: ""
   authors:

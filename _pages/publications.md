@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+# Peer-Reviewed Publications
 
 
 {% for publi in site.data.publist %}
