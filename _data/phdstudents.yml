@@ -4,7 +4,7 @@
 
 - name: Derrick Greenspan
   photo: dgreenspan.jpg
-  info: Derrick Greenspan is currently pursuing a Ph.D in Computer Science. He currently has a Bachelors in Computer Science from the University of Central Florida. His research interests include Non-  Volatile Memory Technologies, Operating Systems, and Multicore Programming.
+  info: Derrick Greenspan is currently pursuing a Ph.D in Computer Science. He currently has a Bachelors in Computer Science from the University of Central Florida. His research interests include Non-Volatile Memory Technologies, Operating Systems, and Multicore Programming.
 
 - name: Vamsee Reddy
   photo: vamsee.jpg
@@ -13,3 +13,7 @@
 - name: Kazi Zubair
   photo: kazi.jpg
   info: Kazi is a first-year Ph.D. student majoring in Electrical Engineering at the University of Central Florida. His research interest is in hardware security and secure computer architecture. He received his bachelor degree from the University of Chittagong, Bangladesh worked in the R&D of several startup companies in Bangladesh before joining UCF.
+
+- name: Mazen AlWadi
+  photo: mazen.jpg
+  info: Mazen Alwadi is currently pursuing a Ph.D in Computer Engineering. His research interests include non-volatile memory and hardware security. He received a Masters degree in Computer Engieering from Yarmouk University, Jordan, and a Bachelors degree in Computer Engineering from Jordan University of Science and Technology. He has worked as a cyber security consultant in Dubai, and holds a CEH and CISA.
