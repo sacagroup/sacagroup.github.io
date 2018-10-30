@@ -21,3 +21,8 @@
 - name: Syed Meisam
   photo: meisam.jpg
   info: Meisam is pursuing a PhD in computer science at UCF. His research interests include secure hardware architectures with focus on cache systems and virtual memory. Meisam obtained his undergraduate degree from LUMS and has been working in the cyber security domain for the two years before joining UCF. 
+
+- name: John McFarland
+  photo: jmac.jpg
+  info: John is an undergraduate student studying Computer Engineering at UCF. His research interests include Kernel Development and Virtual Memory Systems. He has competed in hackathons across Florida and has also been a finalist for a national engineering design contest.  Other personal experience include micro-controller development and video game design.
+  
