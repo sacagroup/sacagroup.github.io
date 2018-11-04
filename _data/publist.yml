@@ -1,3 +1,14 @@
+
+- title: "Triad-NVM: Persistent-Security for Integrity-Protected and Encrypted Non-Volatile Memories (NVMs)"
+  description: ""
+  authors:
+    Amro Awad, Laurent Njilla and Mao Ye
+  link:
+    url: https://arxiv.org/pdf/1810.09438.pdf
+    display: arXiv:1810.09438
+
+
+
 - title: "Exploring Allocation Policies in Disaggregated Non-Volatile Memories"
   description: ""
   authors:
