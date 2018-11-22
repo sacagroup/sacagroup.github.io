@@ -209,6 +209,18 @@ permalink: /members/
   </tr>
 </table>
 
+<table align="center" style="width:100%">
+<tr> 
+    <th>Master Students</th>
+  </tr>
+  <tr>
+    <td>Derrick Greenspan, Fall 2018</td>
+  </tr>
+</table>
+
+
+
+
 
 <!--
 <table align="center" style="width:100%">
