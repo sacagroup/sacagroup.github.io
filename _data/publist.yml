@@ -1,4 +1,12 @@
 
+- title: "Enforcing Fairness in Disaggregated Non-Volatile Memory Systems"
+  description: ""
+  authors:
+    Vamsee R. Kommareddy, Clayton Hughes, Simon Hammond and Amro Awad
+  link:
+    url: http://research.ac.upc.edu/multiprog/
+    display: MULTIPROG-2019
+
 - title: "Triad-NVM: Persistent-Security for Integrity-Protected and Encrypted Non-Volatile Memories (NVMs)"
   description: ""
   authors:
@@ -6,7 +14,6 @@
   link:
     url: https://arxiv.org/pdf/1810.09438.pdf
     display: arXiv:1810.09438
-
 
 
 - title: "Exploring Allocation Policies in Disaggregated Non-Volatile Memories"
