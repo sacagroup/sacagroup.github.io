@@ -9,3 +9,15 @@
   info: Nicholas is an undergraduate student studying computer and electrical engineering. He is currently researching memristors and ternary computing.
   number_educ: 0
   education1: 
+
+- name: Claudio L. de S. Afonso
+  photo: afonso.jpg
+  info: Claudio is an undergraduate student majoring in Computer Engineering. His research interests include NVM Express protocol Quality-of-Service (QoS). Before joining UCF, Claudio was studying Telecommunication Systems at Triumphant College, Namibia. 
+  number_educ: 0
+  education1:
+
+- name: Zachary Crandall
+  photo: zcrand.jpg
+  info: I am an undergraduate student studying computer science. My interest are in application and network security, and applied mathematics. I am a member of Hack@UCF and have competed on national computer security competition.
+  number_educ: 0
+  education1:
