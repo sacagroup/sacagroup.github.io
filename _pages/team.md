@@ -205,6 +205,9 @@ permalink: /members/
     <th>Undergraduate Students</th>
   </tr>
   <tr>
+    <td>Zachary Crandall</td>
+  </tr>
+  <tr>
     <td>Sannidiyan Rajendra, Spring 2018</td>
   </tr>
 </table>
