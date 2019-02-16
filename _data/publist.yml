@@ -4,18 +4,18 @@
 - title: "Exploration of Cache and Memory Bandwidth Allocation for Real-Time Systems"
   description: ""
   authors:
-    Nicholas Omusi
+    Nicholas Omusi (Presenter), Andrew Hughes, and Amro Awad
   link:
     url: https://drive.google.com/open?id=1QQARc4KYQTRiiau6vlLvrClbr6UVTh4P
-    display: ASAD 2019
+    display: ASAD@HPCA'19
 
 - title: "Impact of Virtualization on Mixed-Criticality Systems"
   description: ""
   authors:
-    Andrew Hughes
+    Andrew Hughes (Presenter) , and Amro Awad
   link:
     url: https://drive.google.com/open?id=1u4vnMSovB8e0OAtjRVZBXJACRcvGRFO7
-    display: ASAD 2019
+    display: ASAD@HPCA'19
 
 - title: "Persistent Security: Rethinking Secure Processor Design in the Era of Persistent Memories"
   description: "Keynote Speaker"
