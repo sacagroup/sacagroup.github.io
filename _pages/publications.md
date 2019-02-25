@@ -8,13 +8,14 @@ permalink: /publications/
 
 
 # Peer-Reviewed Publication and PrePrints
-
-
-{% for publi in site.data.publist %}
-
+{% for yr in site.data.publist %}
+<h3>{{ yr.year }}</h3>
+-----
+{% for publi in yr.pubs %}
   <b>[{{ publi.link.display }}] </b> &nbsp;
   <a href="{{ publi.link.url }}">{{ publi.title }}</a><br /><em>{{ publi.authors }} </em>
 
+{% endfor %}
 {% endfor %}
 
 # Technical Reports

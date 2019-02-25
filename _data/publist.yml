@@ -1,151 +1,161 @@
 
+- year: 2019
+  pubs:
+  - title: "Exploration of Cache and Memory Bandwidth Allocation for Real-Time Systems"
+    description: ""
+    authors:
+      Nicholas Omusi (Presenter), Andrew Hughes, and Amro Awad
+    link:
+      url: https://drive.google.com/open?id=1QQARc4KYQTRiiau6vlLvrClbr6UVTh4P
+      display: ASAD@HPCA'19
 
-# 2019
-- title: "Exploration of Cache and Memory Bandwidth Allocation for Real-Time Systems"
-  description: ""
-  authors:
-    Nicholas Omusi (Presenter), Andrew Hughes, and Amro Awad
-  link:
-    url: https://drive.google.com/open?id=1QQARc4KYQTRiiau6vlLvrClbr6UVTh4P
-    display: ASAD@HPCA'19
+  - title: "Impact of Virtualization on Mixed-Criticality Systems"
+    description: ""
+    authors:
+      Andrew Hughes (Presenter) , and Amro Awad
+    link:
+      url: https://drive.google.com/open?id=1u4vnMSovB8e0OAtjRVZBXJACRcvGRFO7
+      display: ASAD@HPCA'19
 
-- title: "Impact of Virtualization on Mixed-Criticality Systems"
-  description: ""
-  authors:
-    Andrew Hughes (Presenter) , and Amro Awad
-  link:
-    url: https://drive.google.com/open?id=1u4vnMSovB8e0OAtjRVZBXJACRcvGRFO7
-    display: ASAD@HPCA'19
-
-- title: "Persistent Security: Rethinking Secure Processor Design in the Era of Persistent Memories"
-  description: "Keynote Speaker"
-  authors:
-    Amro Awad
-  link:
-    url: http://built-in-security.csp.escience.cn/dct/page/1
-    display: SecArch@HPCA'19 (Keynote Speaker)
-
-
-- title: "Enforcing Fairness in Disaggregated Non-Volatile Memory Systems"
-  description: ""
-  authors:
-    Vamsee R. Kommareddy, Clayton Hughes, Simon Hammond and Amro Awad
-  link:
-    url: http://research.ac.upc.edu/multiprog/
-    display: MULTIPROG@HiPEAC'19
-
-# 2018
-
-- title: "Triad-NVM: Persistent-Security for Integrity-Protected and Encrypted Non-Volatile Memories (NVMs)"
-  description: ""
-  authors:
-    Amro Awad, Laurent Njilla and Mao Ye
-  link:
-    url: https://arxiv.org/pdf/1810.09438.pdf
-    display: arXiv:1810.09438
+  - title: "Persistent Security: Rethinking Secure Processor Design in the Era of Persistent Memories"
+    description: "Keynote Speaker"
+    authors:
+      Amro Awad
+    link:
+      url: http://built-in-security.csp.escience.cn/dct/page/1
+      display: SecArch@HPCA'19 (Keynote Speaker)
 
 
-- title: "Exploring Allocation Policies in Disaggregated Non-Volatile Memories"
-  description: ""
-  authors:
-    Vamsee R. Kommareddy, Clayton Hughes, Simon Hammond and Amro Awad
-  link:
-    url: https://passlab.github.io/mchpc/mchpc2018/MCHPC18Proceedings.pdf#page=63
-    display: MCHPC@SC'18
+  - title: "Enforcing Fairness in Disaggregated Non-Volatile Memory Systems"
+    description: ""
+    authors:
+      Vamsee R. Kommareddy, Clayton Hughes, Simon Hammond and Amro Awad
+    link:
+      url: http://research.ac.upc.edu/multiprog/
+      display: MULTIPROG@HiPEAC'19
 
-- title: "Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories"
-  description: ""
-  authors:
-    Mao Ye, Clayton Hughes, and Amro Awad
-  link:
-    url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/main7.pdf
-    display: MICRO-2018 (Top-Tier Conference)
+- year: 2018
+  pubs:
+  - title: "Triad-NVM: Persistent-Security for Integrity-Protected and Encrypted Non-Volatile Memories (NVMs)"
+    description: ""
+    authors:
+      Amro Awad, Laurent Njilla and Mao Ye
+    link:
+      url: https://arxiv.org/pdf/1810.09438.pdf
+      display: arXiv:1810.09438
 
-- title: "Analyzing Exascale Memory Architectures Using the SST Toolkit"
-  description: ""
-  authors:
-    Clayton Hughes, Amro Awad, Simon David Hammond, Arun F. Rodrigues, Karl Scott Hemmert, Robert J. Hoekstra
-  link:
-   url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/siam_18.03.pptx
-   display: SIAM-2018
 
-- title: "Performance Analysis for Using Non-Volatile Memory DIMMs: Opportunities and Challenges"
-  description: "Quick abstract/description"
-  authors:
-    Amro Awad, Simon Hammond, Clayton Hughes, Arun Rodrigues, Scott Hemmert, and Robert Hoekstra.
-  link:
-    url: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbXJvYXdhZHxneDo2YmIyMGQyNDA0YTJkZGQ3
-    display: MEMSYS-2017
+  - title: "Exploring Allocation Policies in Disaggregated Non-Volatile Memories"
+    description: ""
+    authors:
+      Vamsee R. Kommareddy, Clayton Hughes, Simon Hammond and Amro Awad
+    link:
+      url: https://passlab.github.io/mchpc/mchpc2018/MCHPC18Proceedings.pdf#page=63
+      display: MCHPC@SC'18
 
-- title: "Avoiding TLB Shootdowns through Self-invalidating TLB Entries"
-  description: "Quick abstract/description"
-  authors:
-    Amro Awad, Arkaprava Basu, Sergey Blagodurov, Yan Solihin and Gabriel H. Loh.
-  link:
-    url: https://docs.google.com/a/ncsu.edu/viewer?a=v&pid=sites&srcid=bmNzdS5lZHV8YWphd2FkfGd4OjMwOWNkOGJjZTlhNmM0MDY
-    display: PACT-2017 (Top-Tier Conference)
+  - title: "Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories"
+    description: ""
+    authors:
+      Mao Ye, Clayton Hughes, and Amro Awad
+    link:
+      url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/main7.pdf
+      display: MICRO-2018 (Top-Tier Conference)
 
-- title: "ObfusMem: A Low-Overhead AccessObfuscation for Trusted Memories"
-  description: "Quick abstract/description"
-  authors:
-    Amro Awad, Yipeng Wang, Deborah Shands and Yan Solihin.
-  link:
-    url: https://docs.google.com/a/ncsu.edu/viewer?a=v&pid=sites&srcid=bmNzdS5lZHV8YWphd2FkfGd4OjE0MTMyMzMwNWQ2ODcwODI
-    display: ISCA 2017 (Top-Tier Conference)
+  - title: "Analyzing Exascale Memory Architectures Using the SST Toolkit"
+    description: ""
+    authors:
+      Clayton Hughes, Amro Awad, Simon David Hammond, Arun F. Rodrigues, Karl Scott Hemmert, Robert J. Hoekstra
+    link:
+     url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/siam_18.03.pptx
+     display: SIAM-2018
 
-- title: "Clone morphing: Creating new workload behavior from existing applications"
-  description: "Quick abstract/description"
-  authors:
-    Yipeng Wang, Amro Awad and Yan Solihin.
-  link:
-    url: https://ieeexplore.ieee.org/document/7975274/
-    display: ISPASS 2017
+- year: 2017
+  pubs:
+  - title: "Performance Analysis for Using Non-Volatile Memory DIMMs: Opportunities and Challenges"
+    description: "Quick abstract/description"
+    authors:
+      Amro Awad, Simon Hammond, Clayton Hughes, Arun Rodrigues, Scott Hemmert, and Robert Hoekstra.
+    link:
+      url: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbXJvYXdhZHxneDo2YmIyMGQyNDA0YTJkZGQ3
+      display: MEMSYS-2017
 
-- title: "Accurate Cloning of the Memory Access Behavior"
-  description: "Quick abstract/description"
-  authors:
-    Amro Awad, Ganesh Balakrishnan, Yipeng Wang and Yan Solihin.
-  link:
-    url: https://www.jstage.jst.go.jp/article/ipsjtsldm/9/0/9_49/_pdf
-    display: T-SLDM 2016
+  - title: "Avoiding TLB Shootdowns through Self-invalidating TLB Entries"
+    description: "Quick abstract/description"
+    authors:
+      Amro Awad, Arkaprava Basu, Sergey Blagodurov, Yan Solihin and Gabriel H. Loh.
+    link:
+      url: https://docs.google.com/a/ncsu.edu/viewer?a=v&pid=sites&srcid=bmNzdS5lZHV8YWphd2FkfGd4OjMwOWNkOGJjZTlhNmM0MDY
+      display: PACT-2017 (Top-Tier Conference)
 
-- title: "Write-Aware Management of NVM-based Memory Extensions"
-  description: "Quick abstract/description"
-  authors:
-    Amro Awad, Sergey Blagodurov and Yan Solihin.
-  link:
-    url: https://sites.google.com/site/amroawad/publications/sig-alternate-sample.pdf?attredirects=0
-    display: ICS 2016 (Top-Tier Conference)
+  - title: "ObfusMem: A Low-Overhead AccessObfuscation for Trusted Memories"
+    description: "Quick abstract/description"
+    authors:
+      Amro Awad, Yipeng Wang, Deborah Shands and Yan Solihin.
+    link:
+      url: https://docs.google.com/a/ncsu.edu/viewer?a=v&pid=sites&srcid=bmNzdS5lZHV8YWphd2FkfGd4OjE0MTMyMzMwNWQ2ODcwODI
+      display: ISCA 2017 (Top-Tier Conference)
 
-- title: "Silent Shredder: Zero-Cost Shredding for Secure Non-Volatile Main Memory Controllers"
-  description: "Quick abstract/description"
-  authors:
-    Amro Awad, Pratyusa Mandthata, Yan Solihin, Stuart Haber and William Horne.
-  link:
-    url: https://www.labs.hpe.com/techreports/2015/HPL-2015-71R1.pdf
-    display: ASPLOS-2016 (Top-Tier Conference)
+  - title: "Clone morphing: Creating new workload behavior from existing applications"
+    description: "Quick abstract/description"
+    authors:
+      Yipeng Wang, Amro Awad and Yan Solihin.
+    link:
+      url: https://ieeexplore.ieee.org/document/7975274/
+      display: ISPASS 2017
 
-- title: "Non-Volatile Memory Host Controller Interfaces Performance Analysis in High-Performance I/O Systems"
-  description: "Quick abstract/description"
-  authors: Amro Awad, Brett Kettering and Yan Solihin.
-    
-  link:
-    url: https://ieeexplore.ieee.org/document/7095793/
-    display: ISPASS 2015
+- year: 2016
+  pubs:
+  - title: "Accurate Cloning of the Memory Access Behavior"
+    description: "Quick abstract/description"
+    authors:
+      Amro Awad, Ganesh Balakrishnan, Yipeng Wang and Yan Solihin.
+    link:
+      url: https://www.jstage.jst.go.jp/article/ipsjtsldm/9/0/9_49/_pdf
+      display: T-SLDM 2016
 
-- title: "STM : Cloning the Spatial and Temporal Memory Access Behavior"
-  description: "Quick abstract/description"
-  authors: Amro Awad, Yan Solihin.
-    
-  link:
-    url: https://ieeexplore.ieee.org/document/6835935/
-    display: HPCA-2014 (Top-Tier Conference)
+  - title: "Write-Aware Management of NVM-based Memory Extensions"
+    description: "Quick abstract/description"
+    authors:
+      Amro Awad, Sergey Blagodurov and Yan Solihin.
+    link:
+      url: https://sites.google.com/site/amroawad/publications/sig-alternate-sample.pdf?attredirects=0
+      display: ICS 2016 (Top-Tier Conference)
 
-- title: "Undoing sending an E-mail"
-  description: "Quick abstract/description"
-  authors: Amro Awad, Hatem S. Mashaqi, Abdirahman S. Alasow, and Ahmad T. Al-Hammouri.
-    
-  link:
-    url: 
-    display: URC 2011
+  - title: "Silent Shredder: Zero-Cost Shredding for Secure Non-Volatile Main Memory Controllers"
+    description: "Quick abstract/description"
+    authors:
+      Amro Awad, Pratyusa Mandthata, Yan Solihin, Stuart Haber and William Horne.
+    link:
+      url: https://www.labs.hpe.com/techreports/2015/HPL-2015-71R1.pdf
+      display: ASPLOS-2016 (Top-Tier Conference)
+
+- year: 2015
+  pubs:
+  - title: "Non-Volatile Memory Host Controller Interfaces Performance Analysis in High-Performance I/O Systems"
+    description: "Quick abstract/description"
+    authors: Amro Awad, Brett Kettering and Yan Solihin.
+      
+    link:
+      url: https://ieeexplore.ieee.org/document/7095793/
+      display: ISPASS 2015
+
+- year: 2014
+  pubs:
+  - title: "STM : Cloning the Spatial and Temporal Memory Access Behavior"
+    description: "Quick abstract/description"
+    authors: Amro Awad, Yan Solihin.
+      
+    link:
+      url: https://ieeexplore.ieee.org/document/6835935/
+      display: HPCA-2014 (Top-Tier Conference)
+
+- year: 2011
+  pubs:
+  - title: "Undoing sending an E-mail"
+    description: "Quick abstract/description"
+    authors: Amro Awad, Hatem S. Mashaqi, Abdirahman S. Alasow, and Ahmad T. Al-Hammouri.
+      
+    link:
+      url: 
+      display: URC 2011
 
