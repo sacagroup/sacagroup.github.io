@@ -22,6 +22,8 @@ Our Sponsors:
     <a href="http://www.sandia.gov"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sandia.svg" style="width=120px"></a>
     <a href="http://www.navsea.navy.mil/Home/Warfare-Centers/"><img src="{{ site.url }}{{ site.baseurl}}/images/logopic/NSWC_logo.png" style = "width: 90px;"></a>
     <a href="https://www.nsf.gov"><img src="{{ site.url}}{{site.baseurl}}/images/logopic/NSF_4-Color_bitmap_Logo.png" style= "width: 100px;"></a>
+    <a href="https://www.public.navy.mil/spawar/Pages/default.aspx"><img src="{{ site.url}}{{site.baseurl}}/images/logopic/spawar.gif" style= "width: 100px;"></a>
+    <a href="https://www.darpa.mil/"><img src="{{ site.url}}{{site.baseurl}}/images/logopic/darpa.jpg" style= "width: 100px;"></a>
   </p>
 </figure>
 
