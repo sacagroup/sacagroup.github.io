@@ -1,6 +1,41 @@
 
 - year: 2019
   pubs:
+
+
+  - title: "Anubis: Low-Overhead and Practical Recovery Time for Secure Non-Volatile Memories"
+    description: ""
+    authors:
+      Kazi Abu Zubiar and Amro Awad
+    link:
+      url: https://iscaconf.org/isca2019/
+      display: ISCA'19
+
+
+  - title: "Triad-NVM: Persistency for Integrity-Protected and Encrypted Non-Volatile Memories"
+    description: ""
+    authors:
+      Amro Awad, Mao Ye, Yan Solihin, Laurent Njilla and Kazi Abu Zubair
+    link:
+      url: https://iscaconf.org/isca2019/
+      display: ISCA'19
+
+  - title: "MRIMA: An MRAM-based In-Memory Accelerator"
+    description: ""
+    authors:
+      Shaahin Angizi, Zhezhi He, Amro Awad and Deliang Fan
+    link:
+      url: https://eds.ieee.org/transactions-on-technology-computer-aided-design.html
+      display: TCAD'19
+
+  - title: "Quantifying Performance Determinism in Virtualized Mixed-Criticality Systems"
+    description: ""
+    authors:
+      Andrew Hughes and Amro Awad
+    link:
+      url: https://isorc2019.github.io/
+      display: ISORC'19
+
   - title: "Exploration of Cache and Memory Bandwidth Allocation for Real-Time Systems"
     description: ""
     authors:
