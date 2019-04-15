@@ -2,13 +2,10 @@
 - year: 2019
   pubs:
 
-
-
-
   - title: "Diligent TLBs: A Mechanism for Exploiting Heterogeneity in TLB Miss Behavior"
     description: ""
     authors:
-    Hussein Elnawawy, Rangeen Basu Roy Chowdhury, Amro Awad and Gregory Byrd 
+      Hussein Elnawawy, Rangeen Basu Roy Chowdhury, Amro Awad and Gregory Byrd 
     link:
       url: https://ics19.eecis.udel.edu/
       display: ICS'19 (Top-Tier Conference)
