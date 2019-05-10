@@ -205,6 +205,12 @@ permalink: /members/
     <th>Undergraduate Students</th>
   </tr>
   <tr>
+    <td>Nicholas Omusi, Spring 2019</td>
+  </tr>
+  <tr>
+    <td>Andre Villaran, Spring 2019</td>
+  </tr>
+  <tr>
     <td>Sannidiyan Rajendra, Spring 2018</td>
   </tr>
 </table>
