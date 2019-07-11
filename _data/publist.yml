@@ -2,6 +2,22 @@
 - year: 2019
   pubs:
 
+  - title: "Towards Low-Cost Mechanisms to Enable Restoration of Encrypted Non-Volatile Memories"
+    description: ""
+    authors:
+      Mao Ye, Kazi Abu Zubair, Aziz Mohaisen, and Amro Awad
+    link:
+      url: 
+      display: TDSC'19 (Impact Factor: 6.4)
+
+  - title: "Analyzing and Detecting Emerging Internet of Things Malware: A Graph-based Approach"
+    description: ""
+    authors:
+      Hisham Alasmary, Aminollah Khormal, Afsah Anwar, Jeman Park, Jinchun Choi, Ahmed Abusnaina, Amro Awad, DaeHun Nyang, and Aziz Mohaisen
+    link:
+      url: 
+      display: IOTJ'19 (Impact Factor: 9.5)
+
   - title: "Persistently-Secure Processors: Challenges and Opportunities for Securing NonVolatile Memories"
     description: ""
     authors:
