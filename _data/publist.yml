@@ -2,6 +2,17 @@
 - year: 2019
   pubs:
 
+
+
+  - title: "Page Migration Support for Disaggregated Non-Volatile Memories"
+    description: ""
+    authors:
+      Vamsee Reddy Kommareddy, Simond David Hammond, Clayton Hughes, Ahmad Samih, and Amro Awad
+    link:
+      url: http://memsys.io
+      display: MEMSYS'19
+
+
   - title: "Towards Low-Cost Mechanisms to Enable Restoration of Encrypted Non-Volatile Memories"
     description: ""
     authors:
