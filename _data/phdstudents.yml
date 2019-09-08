@@ -14,10 +14,6 @@
   photo: mazen.jpg
   info: Mazen Alwadi is currently pursuing a Ph.D in Computer Engineering. His research interests include non-volatile memory and hardware security. He received a Masters degree in Computer Engieering from Yarmouk University, Jordan, and a Bachelors degree in Computer Engineering from Jordan University of Science and Technology. He has worked as a cyber security consultant in Dubai, and holds a CEH and CISA.
 
-- name: Syed Meisam
-  photo: meisam.jpg
-  info: Meisam is pursuing a PhD in computer science at UCF. His research interests include secure hardware architectures with focus on cache systems and virtual memory. Meisam obtained his undergraduate degree from LUMS and has been working in the cyber security domain for the two years before joining UCF. 
-
 - name: John McFarland
   photo: jmac.jpg
   info: John is currently pursuing a Ph.D in Computer Engineering at UCF. His research interests include Kernel Development and Virtual Memory Systems. He has competed in hackathons across Florida and has also been a finalist for a national engineering design contest.  Other personal experience include micro-controller development and video game design.

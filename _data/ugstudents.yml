@@ -1,11 +1,11 @@
-- name: Andrew Hughes (Burnett Honors College Student, Honors in the Major)
-  photo: ahughes.jpg
-  info: Andrew is an undergraduate studying computer science. His research interestes include secure architectures and application security. He is also a member of Hack@UCF, and has competed in computer security competitions around the world as a member of their competitive team.
+- name: Nicholas Miller
+  photo: miller.jpg
+  info: Nicholas is an undergraduate student major in Computer Engineering.
   number_educ: 0
   education1:
 
-- name: Claudio L. de S. Afonso
-  photo: afonso.jpg
-  info: Claudio is an undergraduate student majoring in Computer Engineering. His research interests include NVM Express protocol Quality-of-Service (QoS). Before joining UCF, Claudio was studying Telecommunication Systems at Triumphant College, Namibia. 
+- name: Charles Stephens
+  photo: charles.jpg
+  info: Charles is an undergraduate student majoring in Computer Science. His research interests are virtualization and cache optimization. He has experience working in industry as an embedded software developer. 
   number_educ: 0
   education1:
