@@ -3,6 +3,14 @@
   pubs:
 
 
+  - title: "Are Crossbar Memories Secure? New Security Vulnerabilities in Crossbar Memories"
+    description: ""
+    authors:
+      Vamsee Reddy Kommareddy, Baogang Zhang, Fan Yao, Rickard Ewetz, and Amro Awad
+    link:
+      url: https://www.computer.org/csdl/journal/ca
+      display: CAL'19 (Impact Factor 1.15)
+
 
   - title: "Page Migration Support for Disaggregated Non-Volatile Memories"
     description: ""
