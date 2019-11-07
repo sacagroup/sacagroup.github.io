@@ -3,6 +3,15 @@
   pubs:
 
 
+  - title: "Phoenix: Towards Persistently Secure, Recoverable, and NVM Friendly Tree of Counters"
+    description: ""
+    authors:
+      Mazen Alwadi, Aziz Mohaisen and Amro Awad
+    link:
+      url: https://arxiv.org/pdf/1911.01922.pdf
+      display: 	arXiv:1911.01922
+
+
   - title: "Are Crossbar Memories Secure? New Security Vulnerabilities in Crossbar Memories"
     description: ""
     authors:
