@@ -9,3 +9,10 @@
   info: Charles is an undergraduate student majoring in Computer Science. His research interests are virtualization and cache optimization. He has experience working in industry as an embedded software developer. 
   number_educ: 0
   education1:
+
+- name: Ignacio Lopez
+  photo: ignacio.jpg
+  info: Ignacio is an undergraduate student studying Computer Engineering. His interests are in hardware and embedded
+development. He has previous experience working on software development and security.
+  number_educ: 0
+  education1:
