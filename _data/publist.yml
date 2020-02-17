@@ -1,4 +1,25 @@
 
+- year: 2020
+  pubs:
+
+  - title: "Inter-Task Cache Interference Aware Partitioned Real-Time Scheduling"
+    description: ""
+    authors:
+      Zhishan Guo, Kecheng Yang, Fan Yao, and Amro Awad
+    link:
+      url: https://www.ece.ucf.edu/~zsguo/pubs/conference_workshop/SAC20.pdf
+      display:  SAC'20
+
+  - title: "Ensuring Fast Crash Recovery for Secure NVMs"
+    description: ""
+    authors:
+      Kazi Abu Zubair and Amro Awad
+    link:
+      url: http://nvmw.ucsd.edu/nvmw2020-program/unzip/current2/nvmw2020-final22.pdf
+      display:  NVMW'20
+
+
+
 - year: 2019
   pubs:
 
