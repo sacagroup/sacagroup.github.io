@@ -3,7 +3,7 @@
   pubs:
 
   - title: "Inter-Task Cache Interference Aware Partitioned Real-Time Scheduling"
-    description: ""
+    description: "The 35th ACM/SIGAPP Symposium On Applied Computing (SAC)"
     authors:
       Zhishan Guo, Kecheng Yang, Fan Yao, and Amro Awad
     link:
@@ -11,7 +11,7 @@
       display:  SAC'20
 
   - title: "Ensuring Fast Crash Recovery for Secure NVMs"
-    description: ""
+    description: "11th Annual Non-volatile Memories Workshop (NVMW)"
     authors:
       Kazi Abu Zubair and Amro Awad
     link:
