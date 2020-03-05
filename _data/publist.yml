@@ -2,6 +2,17 @@
 - year: 2020
   pubs:
 
+
+
+  - title: "Lelantus: Fine-Granularity Copy-On-Write Operations for Secure Non-Volatile Memories"
+    description: "ACM/IEEE The 47th International Symposium on Computer Architecture (ISCA)"
+    authors:
+      Jian Zhou, Amro Awad, and Jun Wang
+    link:
+      url: https://iscaconf.org/isca2020/
+      display:  ISCA'20 (Top-Tier Conference)
+
+
   - title: "Inter-Task Cache Interference Aware Partitioned Real-Time Scheduling"
     description: "The 35th ACM/SIGAPP Symposium On Applied Computing (SAC)"
     authors:
