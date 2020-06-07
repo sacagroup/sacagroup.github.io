@@ -1,6 +1,7 @@
 - name: Nicholas Miller
   photo: miller.jpg
   info: Nicholas is an undergraduate student majoring in Computer Engineering. His current research interests include secure architectures and hardware prototyping.
+  expe: 'Job Placement During Stint at SACA: Internship with Org.1422 at Sandia National Labs'
   number_educ: 0
   education1:
 
@@ -13,5 +14,6 @@
 - name: Ignacio Lopez
   photo: ignacio.jpg
   info: Ignacio is an undergraduate student studying Computer Engineering. His interests are in hardware and embedded development. He has previous experience working on software development and security.
+  expe: 'Job Placement During Stint at SACA: Internship with Qualcomm'
   number_educ: 0
   education1:

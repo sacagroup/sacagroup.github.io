@@ -1,7 +1,7 @@
 - name: Vamsee Reddy
   photo: vamsee.jpg
   info: Vamsee is a Ph.D. student majoring in Computer Engineering at UCF. His research interests include virtual memory, memory architectures specifically disaggregated memory systems and non-volatile memory systems. He got his bachelor degree from Osmania University.  He has experience in kernel development, device driver programming, and embedded systems.
-  expe: 'Industrial Experience during PhD: Internship with the Fabric-Attached Memory (FAM) team at AMD Research'
+  expe: 'Job Placement during PhD: Internship with the Fabric-Attached Memory (FAM) team at AMD Research'
 
 - name: Kazi Zubair
   photo: kazi.jpg
@@ -16,7 +16,7 @@
 - name: John McFarland
   photo: jmac.jpg
   info: John is currently pursuing a Ph.D in Computer Engineering at UCF. His research interests include Kernel Development and Virtual Memory Systems. He has competed in hackathons across Florida and has also been a finalist for a national engineering design contest.  Other personal experience include micro-controller development and video game design.
-  expe: 'Industrial Experience during PhD: Internship with Navy Surface Warfare Center at Dahlgren'
+  expe: 'Job Placement during PhD: Internship with Navy Surface Warfare Center at Dahlgren'
 
 - name: Abdullahal Arafat
   photo: abd.jpg
