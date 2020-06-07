@@ -200,8 +200,31 @@ permalink: /members/
 {% endif %}
 
 ## Past Members
+
+
 <table align="center" style="width:100%">
 <tr> 
+    <th> PhD Students</th>
+  </tr>
+  <tr>
+    <td>Mao Ye, Spring 2020 (first employment: Senior Silicon Design Engineer at AMD, Orlando)</td>
+  </tr>
+</table>
+
+<table align="center" style="width:100%">
+<tr> 
+    <th>Master Students</th>
+  </tr>
+  <tr>
+    <td>Derrick Greenspan, Fall 2018 (first employment: PhD student at IST institute in UCF, Orlando)</td>
+  </tr>
+</table>
+
+
+
+
+<table align="center" style="width:100%">
+  <tr> 
     <th>Undergraduate Students</th>
   </tr>
   <tr>
@@ -214,16 +237,6 @@ permalink: /members/
     <td>Sannidiyan Rajendra, Spring 2018</td>
   </tr>
 </table>
-
-<table align="center" style="width:100%">
-<tr> 
-    <th>Master Students</th>
-  </tr>
-  <tr>
-    <td>Derrick Greenspan, Fall 2018</td>
-  </tr>
-</table>
-
 
 
 
