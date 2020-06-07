@@ -1,7 +1,7 @@
 - name: Vamsee Reddy
   photo: vamsee.jpg
   info: Vamsee is a Ph.D. student majoring in Computer Engineering at UCF. His research interests include virtual memory, memory architectures specifically disaggregated memory systems and non-volatile memory systems. He got his bachelor degree from Osmania University.  He has experience in kernel development, device driver programming, and embedded systems.
-  expe: Industrial Experience during PhD: Internship with the Fabric-Attached Memory (FAM) team at AMD Research
+  expe: 'Industrial Experience during PhD: Internship with the Fabric-Attached Memory (FAM) team at AMD Research'
 
 - name: Kazi Zubair
   photo: kazi.jpg
