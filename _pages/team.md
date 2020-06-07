@@ -207,7 +207,7 @@ permalink: /members/
     <th> PhD Students</th>
   </tr>
   <tr>
-    <td>Mao Ye, Spring 2020 (first employment: Senior Silicon Design Engineer at AMD, Orlando)</td>
+    <td> Mao Ye (UCF), Spring 2020 (first employment: Senior Silicon Design Engineer at AMD, Orlando)</td>
   </tr>
 </table>
 
@@ -215,8 +215,13 @@ permalink: /members/
 <tr> 
     <th>Master Students</th>
   </tr>
+
   <tr>
-    <td>Derrick Greenspan, Fall 2018 (first employment: PhD student at IST institute in UCF, Orlando)</td>
+    <td>Abdullah Arafat (UCF), Summer 2020 (first employment: PhD student at IST institute in UF, Gainesville)</td>
+  </tr>
+
+  <tr>
+    <td>Derrick Greenspan (UCF), Falll 2018 (first employment: PhD student at IST institute in UCF, Orlando)</td>
   </tr>
 </table>
 
@@ -227,8 +232,14 @@ permalink: /members/
   <tr> 
     <th>Undergraduate Students</th>
   </tr>
+  
+
   <tr>
-    <td>Nicholas Omusi, Spring 2019</td>
+    <td> Claudo Afonso, Spring 2019 (first employment: Software Engineer at Microsoft)</td>
+  </tr>
+ 
+  <tr>
+    <td>Nicholas Omusi, Spring 2019 (first employment: Electrical Engineer at Texas Instruments)</td>
   </tr>
   <tr>
     <td>Andre Villaran, Spring 2019</td>
