@@ -6,11 +6,12 @@
 - name: Kazi Zubair
   photo: kazi.jpg
   info: Kazi is a first-year Ph.D. student majoring in Electrical Engineering at the University of Central Florida. His research interest is in hardware security and secure computer architecture. He received his bachelor degree from the University of Chittagong, Bangladesh worked in the R&D of several startup companies in Bangladesh before joining UCF.
- 
+  exp: 
 
 - name: Mazen AlWadi
   photo: mazen.jpg
   info: Mazen Alwadi is currently pursuing a Ph.D in Computer Engineering. His research interests include non-volatile memory and hardware security. He received a Masters degree in Computer Engieering from Yarmouk University, Jordan, and a Bachelors degree in Computer Engineering from Jordan University of Science and Technology. He has worked as a cyber security consultant in Dubai, and holds a CEH and CISA.
+  exp:
 
 - name: John McFarland
   photo: jmac.jpg
@@ -20,4 +21,4 @@
 - name: Abdullahal Arafat
   photo: abd.jpg
   info: Abdullahal will start his PhD in Computer Engineering from Fall 2019 at UCF. Abdullahal has completed his undergraduate in Electrical Engineering from Bangladesh University of Engineering and Technology. His research interests include Processing In-Memory,  and Secure Architecture. 
-
+  exp:
