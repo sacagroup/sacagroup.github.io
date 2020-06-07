@@ -91,6 +91,7 @@ permalink: /members/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
+  <h3>{{ member.exp }}</h3>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
