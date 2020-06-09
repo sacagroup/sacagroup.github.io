@@ -219,7 +219,7 @@ permalink: /members/
   </tr>
 
   <tr>
-    <td>Abdullah Arafat (UCF), Summer 2020 (first employment: PhD student at IST institute in UF, Gainesville)</td>
+    <td>Abdullah Arafat (UCF), Summer 2020 (first employment: PhD student at UF, Gainesville)</td>
   </tr>
 
   <tr>
