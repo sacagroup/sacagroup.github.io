@@ -1,6 +1,6 @@
 # SACA Group Website
 
-This is the website of our academic research group at the University of Central Florida.
+This is the website of our academic research group at North Carolina State University.
 
 It is a fork of the website used by the Allan Lab, thanks to them for open sourcing their project.
 
