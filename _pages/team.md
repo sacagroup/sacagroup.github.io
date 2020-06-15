@@ -8,7 +8,7 @@ permalink: /members/
 
 # Group Members
 
- Multiple Ph.D. positions in our research group are currently available. Promising candidates (GRE 310+, TOEFL 100+, GPA 3.8+, publication) will be financially supported. If interested, please email your resume to [amro.awad@ucf.edu](mailto:amro.awad@ucf.edu). Please specify which area interests you:
+ Multiple Ph.D. positions in our research group are currently available. Promising candidates (GRE 310+, TOEFL 100+, GPA 3.8+, publication) will be financially supported. If interested, please email your resume to [ajawad@ncsu.edu](mailto:ajawad@ncsu.edu). Please specify which area interests you:
 
 * Secure Architectures: Access pattern obfuscation, memory encryption, and data integrity efficient verification schemes
 * Non-Volatile Memory Technologies: Memory management and filesystem optimizations
