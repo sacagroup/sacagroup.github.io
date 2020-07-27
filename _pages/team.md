@@ -203,7 +203,7 @@ permalink: /members/
 
 ## Past Members
 
-
+<!--
 <table align="center" style="width:100%">
 <tr> 
     <th> PhD Students</th>
@@ -226,8 +226,7 @@ permalink: /members/
     <td>Derrick Greenspan (UCF), Falll 2018 (first employment: PhD student at IST institute in UCF, Orlando)</td>
   </tr>
 </table>
-
-
+-->
 
 
 <table align="center" style="width:100%">
