@@ -205,11 +205,23 @@ permalink: /members/
  <tr> <td> (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM.) </td></tr><br/>
 
 <table align="center" style="width:100%">
+<tr>
+    <th> Post-Doc Mentees</th>
+  </tr>
+  <tr>
+    <td> - Dr. Jian Zhou (UCF), Summer 2020 (<b>co-mentored with Prof. Jun Wang</b>).  <br/><b>Achievement:</b> Modeling and evaluation of the Lelantus scheme</td>
+  </tr>
+</table>
+
+
+
+
+<table align="center" style="width:100%">
 <tr> 
     <th> PhD graduates</th>
   </tr>
   <tr>
-    <td> - Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
+    <td> - Dr. Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
   </tr>
 </table>
 
