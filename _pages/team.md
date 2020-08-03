@@ -209,7 +209,7 @@ permalink: /members/
     <th> PhD graduates</th>
   </tr>
   <tr>
-    <td> - Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><br/>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
+    <td> - Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
   </tr>
 </table>
 
