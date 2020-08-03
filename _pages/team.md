@@ -201,44 +201,44 @@ permalink: /members/
 </div>
 {% endif %}
 
-## Past Members
+## Past Members (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM.)
 
 <table align="center" style="width:100%">
 <tr> 
-    <th> PhD Students</th>
+    <th> PhD graduates</th>
   </tr>
   <tr>
-    <td> Mao Ye (UCF), Spring 2020 (first employment: Senior Silicon Design Engineer at AMD, Orlando), PhD achievement: Modeling and evaluation of the Osiris scheme</td>
+    <td> Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando). <b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
   </tr>
 </table>
 
 <table align="center" style="width:100%">
 <tr> 
-    <th>Master Students</th>
+    <th>Master graduates</th>
   </tr>
 
   <tr>
-    <td>Abdullah Arafat (UCF), Summer 2020 (first employment: PhD student at UCF)</td>
+    <td>Abdullah Arafat (UCF), Summer 2020 (<b>first employment:</b> PhD student at UCF)</td>
   </tr>
 
   <tr>
-    <td>Derrick Greenspan (UCF), Falll 2018 (first employment: PhD student at IST institute in UCF, Orlando)</td>
+    <td>Derrick Greenspan (UCF), Falll 2018 (<b>first employment:</b> PhD student at IST institute in UCF, Orlando)</td>
   </tr>
 </table>
 
 
 <table align="center" style="width:100%">
   <tr> 
-    <th>Undergraduate Students</th>
+    <th>Undergraduate graduates</th>
   </tr>
   
 
   <tr>
-    <td> Claudo Afonso, Spring 2019 (first employment: Software Engineer at Microsoft)</td>
+    <td> Claudo Afonso, Spring 2019 (<b>first employment:</b> Software Engineer at Microsoft)</td>
   </tr>
  
   <tr>
-    <td>Nicholas Omusi, Spring 2019 (first employment: Electrical Engineer at Texas Instruments)</td>
+    <td>Nicholas Omusi, Spring 2019 (<b>first employment:</b> Electrical Engineer at Texas Instruments)</td>
   </tr>
   <tr>
     <td>Andre Villaran, Spring 2019</td>
