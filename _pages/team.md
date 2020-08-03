@@ -202,13 +202,14 @@ permalink: /members/
 {% endif %}
 
 ## Past Members
- <tr> <td> (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM. </td></tr>
+ <tr> <td> (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM.) </td></tr><br/>
+
 <table align="center" style="width:100%">
 <tr> 
     <th> PhD graduates</th>
   </tr>
   <tr>
-    <td> Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><br/> <b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
+    <td> - Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><br/>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
   </tr>
 </table>
 
@@ -218,11 +219,11 @@ permalink: /members/
   </tr>
 
   <tr>
-    <td>Abdullah Arafat (UCF), Summer 2020 (<b>first employment:</b> PhD student at UCF)</td>
+    <td> - Abdullah Arafat (UCF), Summer 2020 (<b>first employment:</b> PhD student at UCF)</td>
   </tr>
 
   <tr>
-    <td>Derrick Greenspan (UCF), Falll 2018 (<b>first employment:</b> PhD student at IST institute in UCF, Orlando)</td>
+    <td> - Derrick Greenspan (UCF), Falll 2018 (<b>first employment:</b> PhD student at IST institute in UCF, Orlando)</td>
   </tr>
 </table>
 
@@ -234,17 +235,17 @@ permalink: /members/
   
 
   <tr>
-    <td> Claudo Afonso, Spring 2019 (<b>first employment:</b> Software Engineer at Microsoft)</td>
+    <td> - Claudo Afonso, Spring 2019 (<b>first employment:</b> Software Engineer at Microsoft)</td>
   </tr>
  
   <tr>
-    <td>Nicholas Omusi, Spring 2019 (<b>first employment:</b> Electrical Engineer at Texas Instruments)</td>
+    <td> - Nicholas Omusi, Spring 2019 (<b>first employment:</b> Electrical Engineer at Texas Instruments)</td>
   </tr>
   <tr>
-    <td>Andre Villaran, Spring 2019</td>
+    <td> - Andre Villaran, Spring 2019</td>
   </tr>
   <tr>
-    <td>Sannidiyan Rajendra, Spring 2018</td>
+    <td> - Sannidiyan Rajendra, Spring 2018</td>
   </tr>
 </table>
 
