@@ -201,14 +201,14 @@ permalink: /members/
 </div>
 {% endif %}
 
-## Past Members (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM.)
-
+## Past Members
+ <tr> <td> (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM. </td></tr>
 <table align="center" style="width:100%">
 <tr> 
     <th> PhD graduates</th>
   </tr>
   <tr>
-    <td> Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando). <b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
+    <td> Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><br/> <b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
   </tr>
 </table>
 
