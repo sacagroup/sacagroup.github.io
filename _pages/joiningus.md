@@ -20,13 +20,13 @@ I support my PhD students with salary to cover living expenses, in addition to c
 For PhD, to be able to graduate on time with outstanding publication record, you will need to work/study 50-70 hours/week towards your dissertation topic. While sometimes the funded project you work on is directly relevant to your PhD topic, it can happen that you work on a different topic or funded as a TA, in both cases you still need to put significant efforts towards your dissertation.
 
 <b> Do I fund master students? Can I nominate you for TA? </b>
-Most of the problems I work on require solid understanding of the fundamentals and good technical skills. Therefore, I prefer students with time horizon of 3-4 years. Thus, unless I worked with you (e.g., indepdendant study) and confident about your skills and ability to deliver for a specific project, it is unlikely that I will consider you for any funding. TA selections are made by the department, and my nominations will be only for students I worked with and I am confident about their work ethics. If I want to work with you, I will initially offer you RA not TA. 
+Most of the problems I work on require solid understanding of the fundamentals and good technical skills. Therefore, I prefer students with time horizon of 3-4 years. Thus, unless I worked with you (e.g., indepdendent study) and confident about your skills and ability to deliver for a specific project, it is unlikely that I will consider you for any funding. TA selections are made by the department, and my nominations will be only for students I worked with and I am confident about their work ethics. If I want to work with you, I will initially offer you RA not TA. 
 
 <b> What criteria I you use to select master and doctoral students? </b>
 Educational background is one factor, but not the only one. I look for students who are self-motivated, hard-working, interested in research, and ambitious. We constantly publish in the top conferences in our area, and I expect my students to aim for that.
 
 <b> How long does PhD take? </b> 
-PhD is a fun experience, and the focus should be doing excellent research not to graduate quickly. It depends on the topic, your experience and baackground, career goals, progress, and many other factors.
+PhD is a fun experience, and the focus should be doing excellent research not to graduate quickly. It depends on the topic, your experience and background, career goals, progress, and many other factors.
 
 <b> What can you do after PhD? </b> 
 If interested in research, you can join academia, government research labs (e.g., Sandia, Livermore, Los Alamos, NSWCDD, etc.) or industrial research labs (AMD Research, Intel Labs, IBM TJ Watson, etc.). If interested in industry, most PhD graduates in computer architecture can join major companies such as Intel, AMD, IBM, Qualcomm, ARM, Facebook, Amazon and Google. Many SACA students have had job placements and internships in industry and government resaerch labs.
