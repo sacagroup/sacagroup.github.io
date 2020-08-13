@@ -6,12 +6,12 @@ sitemap: false
 permalink: /joiningus/
 ---
 
-# Interested in joining SACA? Before contacting me please read the following.
+# Interested in Joining SACA? Before contacting me, please read the following.
 
 We are always looking for self-motivated, hard-working and creative students who can reshape the future of hardware architectures.
 
 <b> GPA, TOEFL and GRE Requirements </b>
-I don't manage the admission process at NC State. I can only suggest if your application and scores are competitive. Check the departmnet website for requirements.
+I don't manage the admission process at NC State. I can only suggest if your application and scores are competitive. Check the department website for requirements.
 
 <b> Funding?  </b>
 I support my PhD students with salary to cover living expenses, in addition to cover health insurance and tuition as parts of the financial package. 
