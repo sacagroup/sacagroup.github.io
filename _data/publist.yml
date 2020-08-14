@@ -2,6 +2,39 @@
 - year: 2020
   pubs:
 
+  - title: "Phoenix: Towards Ultra-Low Overhead, Recoverable, and Persistently Secure NVM"
+    description: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
+    authors:
+      Mazen Al-Wadi, Kazi Abu Zubair, Aziz Mohaisen, and Amro Awad
+    link:
+      url: 
+      display:  TDSC'20 (Impact Factor 6.4)
+
+  - title: "PreFAM: Understanding the Impact of Prefetching in Fabric-Attached Memory Architectures"
+    description: "The International Symposium on Memory Systems (MemSys)"
+    authors:
+      Vamsee Reddy Kommareddy, Jagadish Kotra, Simon David Hammond, Clayton Hughes, and Amro Awad
+    link:
+      url: http://memsys.io
+      display: MEMSYS'20
+
+
+  - title: "Caching Techniques for Security Metadata in Integrity-Protected Fabric-Attached Memories"
+    description: "EAI Endorsed Transactions on Security and Safety"
+    authors:
+      Mazen Al-Wadi and Amro Awad
+    link:
+      url: http://memsys.io
+      display: EAI SESA
+
+  - title: "DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems"
+    description: "Archival e-Print (ArXiv)"
+    authors:
+      Vamsee Reddy Kommareddy, Clayton Hughes, Simon David Hammond, Amro Awad
+    link:
+      url: https://arxiv.org/abs/2008.00171
+      display: arXiv:2008.00171
+
 
 
   - title: "Lelantus: Fine-Granularity Copy-On-Write Operations for Secure Non-Volatile Memories"
