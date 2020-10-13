@@ -2,6 +2,14 @@
 - year: 2020
   pubs:
 
+  - title: "Resilient and Secure Hardware Devices Using ASL"
+    description: "ACM Journal on Emerging Technologies in Computing Systems (JETC)"
+    authors:
+      Qutaiba Alasad, Jie Lin, Jiann-Shuin Yuan, and Amro Awad,
+    link:
+      url:
+      display:  JETC'20 (Impact Factor 1.65)
+
   - title: "Phoenix: Towards Ultra-Low Overhead, Recoverable, and Persistently Secure NVM"
     description: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
     authors:
