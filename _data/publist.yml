@@ -1,11 +1,11 @@
 
-- year: 2021 (* indicates equal contributions)
+- year: 2021 (^ indicates equal contributions)
   pubs:
 
   - title: "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
     authors:
-      Mazen Alwadi*, Vamsee Reddy Kommareddy*, Clayton Hughes, Simon Hammond, and Amro Awad
+      Mazen Alwadi^, Vamsee Reddy Kommareddy^, Clayton Hughes, Simon Hammond, and Amro Awad
     link:
       url: 
       display: HPCA'21 (Top-Tier Conference)
