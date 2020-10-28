@@ -1,11 +1,30 @@
 
+- year: 2021 (* indicates equal contributions)
+  pubs:
+
+  - title: "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems"
+    description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
+    authors:
+      Mazen Alwadi*, Vamsee Reddy Kommareddy*, Clayton Hughes, Simon Hammond, and Amro Awad
+    link:
+      url: 
+      display: HPCA'21 (Top-Tier Conference)
+
+  - title: "DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems"
+    description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
+    authors:
+      Vamsee Reddy Kommareddy, Clayton Hughes, Simon Hammond, and Amro Awad
+    link:
+      url: 
+      display: HPCA'21 (Top-Tier Conference)
+
 - year: 2020
   pubs:
 
   - title: "Resilient and Secure Hardware Devices Using ASL"
     description: "ACM Journal on Emerging Technologies in Computing Systems (JETC)"
     authors:
-      Qutaiba Alasad, Jie Lin, Jiann-Shuin Yuan, and Amro Awad,
+      Qutaiba Alasad, Jie Lin, Jiann-Shuin Yuan, and Amro Awad
     link:
       url:
       display:  JETC'20 (Impact Factor 1.65)
