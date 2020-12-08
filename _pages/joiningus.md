@@ -8,7 +8,7 @@ permalink: /joiningus/
 
 # Interested in Joining SACA? Before contacting me, please read the following.
 
-We are always looking for self-motivated, hard-working and creative students who can reshape the future of hardware architectures.
+We are always looking for self-motivated, hard-working and creative students who can reshape the future of hardware architectures. One thing to keep in mind is that NC State is constantly ranked among the top universities in the nation for computer architecture and high-performance computing, which makes our program highly-selective and competitive. For instance, the <b> CSRankings.org </b> provides a metric-based ranking based on publications in top venues, where NC State stands as  <b> #1 </b> in USA for the area of high-performance computing and  <b>#12</b> in computer architecture for the last 5 years as of December 2020.
 
 <b> GPA, TOEFL and GRE Requirements </b>
 I don't manage the admission process at NC State. I can only suggest if your application and scores are competitive. Check the department website for requirements.
