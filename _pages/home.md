@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are the Secure and Advanced Computer Architecture (SACA) Research Group, a research lab located at North Carolina State University (moving from University of Central Florida since Fall 2020). NC State is constantly ranked among the top universities in the nation for computer architecture and high-performance computing. For instance, the <b> CSRankings.com </b> provides a metric-based ranking based on publications in top venues, where NC State stands as #1 in USA for the area of high-performance computing and #12 in computer architecture for the last 5 years as of December 2020.  
+We are the Secure and Advanced Computer Architecture (SACA) Research Group, a research lab located at North Carolina State University (moving from University of Central Florida since Fall 2020). NC State is constantly ranked among the top universities in the nation for computer architecture and high-performance computing. For instance, the <b> CSRankings.com </b> provides a metric-based ranking based on publications in top venues, where NC State stands as  <b> #1 </b> in USA for the area of high-performance computing and  <b>#12</b> in computer architecture for the last 5 years as of December 2020.  
 
 Our research group works on cutting-edge problems in computer architecture, with a focus on secure architectures and memory systems. [More information about our research]({{ site.url }}{{ site.baseurl }}/research/). SACA members have been actively publishing in the most prestigious and top-tier computer architecture conferences.
 
