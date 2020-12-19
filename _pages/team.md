@@ -220,6 +220,11 @@ permalink: /members/
 <tr> 
     <th> PhD graduates</th>
   </tr>
+
+  <tr>
+    <td> - Dr. Mazen Alwadi (UCF), Spring 2021 (<b>first employment:</b> TBA).  <br/><b>PhD achievement:</b> (1) Invention of the Phoenix scheme. (2) Design, modeling and evaluation of Stealth-Persist. (3) Modeling and evaluation of Minerva.</td>
+  </tr>
+
   <tr>
     <td> - Dr. Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
   </tr>
