@@ -249,7 +249,14 @@ permalink: /members/
   <tr> 
     <th>Undergraduate graduates</th>
   </tr>
-  
+
+   <tr>
+    <td> - Charles Stephens, Spring 2020 (<b>first employment:</b> Embedded Systems Engineer at Motorola)</td>
+  </tr>
+
+ <tr>
+    <td> - Ignacio Lopez, Summer 2020 (<b>first employment:</b> IT Engineer at Qualcomm)</td>
+  </tr>
 
   <tr>
     <td> - Claudo Afonso, Spring 2019 (<b>first employment:</b> Software Engineer at Microsoft)</td>
