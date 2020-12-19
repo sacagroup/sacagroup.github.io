@@ -21,6 +21,16 @@
 - year: 2020
   pubs:
 
+
+  - title: "A Lightweight Memory Access Pattern Obfuscation Framework for NVM"
+    description: "IEEE Computer Architecture Letters (CAL)"
+    authors:
+      Yuezhi Che, Yuanzhou Yang, Amro Awad, and Rujia Wang
+    link:
+      path:
+      url: 
+      display: CAL'20 (Impact Factor 1.1)
+
   - title: "Resilient and Secure Hardware Devices Using ASL"
     description: "ACM Journal on Emerging Technologies in Computing Systems (JETC)"
     authors:
