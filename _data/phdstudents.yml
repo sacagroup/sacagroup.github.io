@@ -5,7 +5,7 @@
 
 - name: Kazi Zubair
   photo: kazi.jpg
-  info: Kazi is a first-year Ph.D. student majoring in Electrical Engineering at the University of Central Florida. His research interest is in hardware security and secure computer architecture. He received his bachelor degree from the University of Chittagong, Bangladesh worked in the R&D of several startup companies in Bangladesh before joining UCF.
+  info: Kazi is a Ph.D. student majoring in Computer Engineering at NC State. His research interest includes secure memory architecture, NVM security, and memory reliability. He received his bachelor degree from the University of Chittagong, Bangladesh, and worked in the R&D of several startup companies in Bangladesh before joining SACA. At SACA, he published the first work addressing the recovery time in secure NVMs (Anubis ISCA'19).
   expe:  
 
 - name: John McFarland
