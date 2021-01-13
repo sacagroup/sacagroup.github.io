@@ -2,6 +2,27 @@
 - year: 2021 (^ indicates equal contributions)
   pubs:
 
+
+  - title: "VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets"
+    description: "The IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2021"
+    authors:
+      Abdullah Arafat, Zhishan Guo, and Amro Awad
+    link:
+      url: 
+      display: IEEE VR'21 (Top-Tier Conference)
+
+
+  - title: "PiPoMonitor: Mitigating Cross-Core Cache Attacks Using the Auto-Cuckoo Filter"
+    description: "Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021"
+    authors:
+      Fengkai Yuan, Kai Wang, Rui Hou, Xiaoxin Li, Peinan Li, Lutan Zhao, Jiameng Ying, Amro Awad, and Dan Meng
+    link:
+      url: 
+      display: DATE'21 (Top-Tier Conference)
+
+
+
+
   - title: "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
     authors:
