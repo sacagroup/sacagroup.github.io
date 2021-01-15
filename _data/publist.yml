@@ -1,6 +1,5 @@
-
 - year: Selected Publications
-
+  pubs:
   - title: "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
     authors:
@@ -18,15 +17,9 @@
       display: HPCA'21 (Top-Tier Conference)
 
 
-
-
-
-
-
-
-
-
 - year: All Publications
+  pubs:
+
 - year: 2021 (^ indicates equal contributions)
   pubs:
 
