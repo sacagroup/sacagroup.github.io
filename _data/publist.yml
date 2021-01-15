@@ -17,6 +17,94 @@
       display: HPCA'21 (Top-Tier Conference)
 
 
+  - title: "Lelantus: Fine-Granularity Copy-On-Write Operations for Secure Non-Volatile Memories"
+    description: "ACM/IEEE The 47th International Symposium on Computer Architecture (ISCA)"
+    authors:
+      Jian Zhou, Amro Awad, and Jun Wang
+    link:
+      url: https://iscaconf.org/isca2020/
+      display:  ISCA'20 (Top-Tier Conference)
+
+
+  - title: "Diligent TLBs: A Mechanism for Exploiting Heterogeneity in TLB Miss Behavior"
+    description: "The ACM International Conference on Supercomputing (ICS)"
+    authors:
+      Hussein Elnawawy, Rangeen Basu Roy Chowdhury, Amro Awad and Gregory Byrd 
+    link:
+      url: https://ics19.eecis.udel.edu/
+      display: ICS'19 (Top-Tier Conference)
+
+
+  - title: "Anubis: Ultra-Low Overhead and Practical Recovery Time for Secure Non-Volatile Memories"
+    description: "ACM/IEEE The 46th International Symposium on Computer Architecture (ISCA)"
+    authors:
+      Kazi Abu Zubiar and Amro Awad
+    link:
+      url: https://iscaconf.org/isca2019/
+      display: ISCA'19 (Top-Tier Conference)
+
+
+  - title: "Triad-NVM: Persistency for Integrity-Protected and Encrypted Non-Volatile Memories"
+    description: "ACM/IEEE The 46th International Symposium on Computer Architecture (ISCA)"
+    authors:
+      Amro Awad, Mao Ye, Yan Solihin, Laurent Njilla and Kazi Abu Zubair
+    link:
+      url: https://iscaconf.org/isca2019/
+      display: ISCA'19 (Top-Tier Conference)
+
+  - title: "Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories"
+    description: "The 51st IEEE/ACM International Symposium on Microarchitecture (MICRO'18)"
+    authors:
+      Mao Ye, Clayton Hughes, and Amro Awad
+    link:
+      url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/main7.pdf
+      display: MICRO-2018 (Top-Tier Conference)
+
+
+  - title: "Avoiding TLB Shootdowns through Self-invalidating TLB Entries"
+    description: "The 26th International Conference on. Parallel Architectures and Compilation Techniques (PACT)"
+    authors:
+      Amro Awad, Arkaprava Basu, Sergey Blagodurov, Yan Solihin and Gabriel H. Loh.
+    link:
+      url: https://docs.google.com/a/ncsu.edu/viewer?a=v&pid=sites&srcid=bmNzdS5lZHV8YWphd2FkfGd4OjMwOWNkOGJjZTlhNmM0MDY
+      display: PACT-2017 (Top-Tier Conference)
+
+  - title: "ObfusMem: A Low-Overhead AccessObfuscation for Trusted Memories"
+    description: "ACM/IEEE The 44th International Symposium on Computer Architecture (ISCA)"
+    authors:
+      Amro Awad, Yipeng Wang, Deborah Shands and Yan Solihin.
+    link:
+      url: https://docs.google.com/a/ncsu.edu/viewer?a=v&pid=sites&srcid=bmNzdS5lZHV8YWphd2FkfGd4OjE0MTMyMzMwNWQ2ODcwODI
+      display: ISCA 2017 (Top-Tier Conference)
+
+
+  - title: "Write-Aware Management of NVM-based Memory Extensions"
+    description: "The ACM International Conference on Supercomputing (ICS)"
+    authors:
+      Amro Awad, Sergey Blagodurov and Yan Solihin.
+    link:
+      url: https://sites.google.com/site/amroawad/publications/sig-alternate-sample.pdf?attredirects=0
+      display: ICS 2016 (Top-Tier Conference)
+
+  - title: "Silent Shredder: Zero-Cost Shredding for Secure Non-Volatile Main Memory Controllers"
+    description: "The 21st International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)"
+    authors:
+      Amro Awad, Pratyusa Mandthata, Yan Solihin, Stuart Haber and William Horne.
+    link:
+      url: https://www.labs.hpe.com/techreports/2015/HPL-2015-71R1.pdf
+      display: ASPLOS-2016 (Top-Tier Conference)
+
+  - title: "STM : Cloning the Spatial and Temporal Memory Access Behavior"
+    description: "The 20th IEEE International Symposium on High Performance Computer Architecture (HPCA)"
+    authors: Amro Awad, Yan Solihin.
+      
+    link:
+      url: https://ieeexplore.ieee.org/document/6835935/
+      display: HPCA-2014 (Top-Tier Conference)
+
+
+
+
 - year: All Publications
   pubs:
 
