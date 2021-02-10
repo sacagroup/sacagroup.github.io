@@ -29,4 +29,9 @@
   info: Rohin is an M.S. student majoring in Computer Engineering at NC State. His research interests include secure architectures, fast parallel processing, and embedded kernel optimization. He graduated from the University of Mumbai, India with a bachelor’s degree in Electronics and Telecommunication before joining SACA. He is currently working on an advanced simulation and computing project with Sandia National Labs. 
   expe:
 
+- name: Alan Gardner
+  photo: alan.ong
+  info: Alan is an M.S. student at NC State majoring in Computer Engineering with a focus on computer architecture. His areas of interest focus on computer microarchitecture and specifically the implementation of security features in the architecture itself, with a passion for RISC-V applications and FPGA development. He obtained his Bachelor of Science degree from Oregon Institute of Technology in Klamath Falls. His experience includes FPGA programming using Verilog HDL and embedded systems. 
+  expe:
+
 
