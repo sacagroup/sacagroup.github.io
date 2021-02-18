@@ -12,6 +12,8 @@ Our research group works on cutting-edge problems in computer architecture and h
 
 Currently SACA has six Ph.D. students and three undergraduate interns from renowned national programs and academic clubs. [Our group members]({{ site.url }}{{ site.baseurl }}/members/). We are actively looking for self-motivated Ph.D. students with solid background in computer architecture and interest in doing cutting-edge research. Promising Ph.D. applicants will be fully-funded (salary + tuition). Promising candidate typically have 100+ TOEFL scores, 310+ GRE scores, a GPA of 3.8+ (stand among top 5% in their graduating class), and have a research experience with at least one publication. We are also recruiting postdoctoral scholars to work on bleeding-edge research topics, and help us define the future of secure hardware architectures.
 
+To learn about our <b> impact </b> on industry and academia, you can read through our [impact page]({{ site.url }}{{ site.baseurl }}/impact/). 
+
 
 For more information, please feel free to [contact us]({{ site.url }}{{ site.baseurl}}/contact/).
   
