@@ -1,5 +1,13 @@
 - year: Selected Publications
   pubs:
+  - title: "NASGuard: A Novel Accelerator Architecture for Robust NAS Networks"
+    description: "ACM/IEEE The 48th International Symposium on Computer Architecture (ISCA)"
+    authors:
+      Xingbin Wang, Boyan Zhao, Rui Hou, Amro Awad, Zhihong Tian, Dan Meng
+    link:
+      url:
+      display: ISCA'21 (Top-Tier Conference)
+
   - title: "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
     authors:
@@ -112,6 +120,14 @@
   pubs:
 
 
+  - title: "NASGuard: A Novel Accelerator Architecture for Robust NAS Networks"
+    description: "ACM/IEEE The 48th International Symposium on Computer Architecture (ISCA)"
+    authors:
+      Xingbin Wang, Boyan Zhao, Rui Hou, Amro Awad, Zhihong Tian, Dan Meng
+    link:
+      url:
+      display: ISCA'21 (Top-Tier Conference)
+
   - title: "VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets"
     description: "The IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2021"
     authors:
@@ -119,6 +135,16 @@
     link:
       url: 
       display: IEEE VR'21 (Top-Tier Conference)
+
+
+  - title: "PiPoMonitor: Mitigating Cross-Core Cache Attacks Using the Auto-Cuckoo Filter"
+    description: "In 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+    authors:
+      Fengkai Yuan , Kai Wang , Rui Hou , Xiaoxin Li , Peinan Li , Lutan Zhao , Jiameng Ying , Amro Awad , Dan Meng
+    link:
+      url:
+      display: DATE'21 (Top-Tier Conference)
+
 
   - title: "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
