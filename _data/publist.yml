@@ -1,5 +1,15 @@
 - year: Selected Publications
   pubs:
+
+  - title: "ProMT: Optimizing Integrity Tree Updates for Write-Intensive Pages in Secure NVMs"
+    description: "ACM The 35th International Conference on Supercomputing (ICS)"
+    authors:
+      Mazen Alwadi, David Mohaisen, and Amro Awad
+    link:
+      url:
+      display: ICS'21 (Top-Tier Conference)
+
+
   - title: "NASGuard: A Novel Accelerator Architecture for Robust NAS Networks"
     description: "ACM/IEEE The 48th International Symposium on Computer Architecture (ISCA)"
     authors:
@@ -119,6 +129,14 @@
 - year: 2021 (^ indicates equal contributions)
   pubs:
 
+  - title: "ProMT: Optimizing Integrity Tree Updates for Write-Intensive Pages in Secure NVMs"
+    description: "ACM The 35th International Conference on Supercomputing (ICS)"
+    authors:
+      Mazen Alwadi, David Mohaisen, and Amro Awad
+    link:
+      url:
+      display: ICS'21 (Top-Tier Conference)
+  
 
   - title: "NASGuard: A Novel Accelerator Architecture for Robust NAS Networks"
     description: "ACM/IEEE The 48th International Symposium on Computer Architecture (ISCA)"
