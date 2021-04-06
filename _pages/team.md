@@ -222,6 +222,11 @@ permalink: /members/
   </tr>
 
   <tr>
+    <td> - Dr. Vamsee Reddy (UCF), Spring 2021 (<b>first employment:</b> Post-doc researcher at AMD Research in Bellevue).  <br/><b>PhD achievements:</b> (1) Modeling of disaggregated NVM systems. (2) Modeling and evaulation of DeACT. (3) Inventing various QoS schemes in disaggregated memory systems..</td>
+  </tr>
+
+
+  <tr>
     <td> - Dr. Mazen Alwadi (UCF), Spring 2021 (<b>first employment:</b> Assistant Professor in Computer Engineering at Princess Sumaya University for Technology).  <br/><b>PhD achievements:</b> (1) Invention of the Phoenix scheme. (2) Design, modeling and evaluation of Stealth-Persist. (3) Modeling and evaluation of Minerva.</td>
   </tr>
 
