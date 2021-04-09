@@ -3,16 +3,41 @@
   info: Kazi is a Ph.D. student majoring in Computer Engineering at NC State. His research interest includes secure memory architecture, NVM security, and memory reliability. He received his bachelor degree from the University of Chittagong, Bangladesh, and worked in the R&D of several startup companies in Bangladesh before joining SACA. At SACA, he published the first work addressing the recovery time in secure NVMs (Anubis ISCA'19).
   expe:  
 
+- name: Justin Kirschner
+  photo: JUSTIN.png
+  info: Justin is an M.S. student at NC State majoring in Computer Science. His primary areas of interest include scientific computing, high performance computing and computer networking. He graduated from the University of Pennsylvania with a bachelor’s degree in Economics. Recently he has worked on high performance computing applications and is currently working on a dynamic binary translation project. 
+
 - name: John McFarland
   photo: jmac.jpg
   info: John is currently pursuing a Ph.D in Computer Engineering at UCF. His research interests include Kernel Development and Virtual Memory Systems. He has competed in hackathons across Florida and has also been a finalist for a national engineering design contest.  Other personal experience include micro-controller development and video game design.
   expe: 'Job Placement during PhD: Internship with Navy Surface Warfare Center at Dahlgren'
+
 
 - name: Xijing Han (co-adivsed with Prof. James Tuck)
   photo: xijing.jpg
   info: Xijing is a Ph.D. student majoring in Computer Engineering at NC State. Her research interest includes Non-volatile memory systems. She received her bachelor degree from Southeast University, Nanjing and master degree from Brown University, Providence. Before joining NCSU, she worked in the R&D of Cadence in Shanghai.  
   expe:
 
+
+- name: Ramil Agliamzanov (joining in Fall'21)
+  photo: NCSU.png
+  info: TBA
+
+- name: Rahaf Abdullah (joining in Fall'21)
+  photo: NCSU.png
+  info: TBA
+
+- name: Debpratim Adak (joining in Fall'21)
+  photo: NCSU.png
+  info: TBA
+
+- name: Saleh Al-Saleh (joining in Fall'21)
+  photo: NCSU.png
+  info: TBA
+
+- name: Yuqin Wang (joining in Fall'21)
+  photo: NCSU.png
+  info: TBA
 
 - name: Shubham Nema
   photo: shubham.jpg
