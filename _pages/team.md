@@ -204,16 +204,6 @@ permalink: /members/
 ## Past Members
  <tr> <td> (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM.) </td></tr><br/>
 
-<table align="center" style="width:100%">
-<tr>
-    <th> Post-Doc Mentees</th>
-  </tr>
-  <tr>
-    <td> - Dr. Jian Zhou (UCF), Summer 2020 (<b>co-mentored with Prof. Jun Wang</b>).  <br/><b>Achievement:</b> Modeling and evaluation of the Lelantus scheme</td>
-  </tr>
-</table>
-
-
 
 
 <table align="center" style="width:100%">
@@ -222,18 +212,28 @@ permalink: /members/
   </tr>
 
   <tr>
-    <td> - Dr. Vamsee Reddy (UCF), Spring 2021 (<b>first employment:</b> Post-doc researcher at AMD Research in Bellevue).  <br/><b>PhD achievements:</b> (1) Modeling of disaggregated NVM systems. (2) Modeling and evaulation of DeACT. (3) Inventing various QoS schemes in disaggregated memory systems..</td>
+    <td> - Dr. Vamsee Reddy (UCF), Spring 2021 (<b>first job:</b> AMD Research in Bellevue).  <br/><b>PhD achievements:</b> (1) Modeling of disaggregated NVM systems. (2) Modeling and evaulation of DeACT. (3) Inventing various QoS schemes in disaggregated memory systems..</td>
   </tr>
 
 
   <tr>
-    <td> - Dr. Mazen Alwadi (UCF), Spring 2021 (<b>first employment:</b> Post-doc researcher at Texas A&M University in College Station).  <br/><b>PhD achievements:</b> (1) Invention of the Phoenix scheme. (2) Design, modeling and evaluation of Stealth-Persist. (3) Modeling and evaluation of Minerva.</td>
+    <td> - Dr. Mazen Alwadi (UCF), Spring 2021 (<b>first employment:</b> Texas A&M University in College Station).  <br/><b>PhD achievements:</b> (1) Invention of the Phoenix scheme. (2) Design, modeling and evaluation of Stealth-Persist. (3) Modeling and evaluation of Minerva.</td>
   </tr>
 
   <tr>
-    <td> - Dr. Mao Ye (UCF), Spring 2020 (<b>first employment:</b> Senior Silicon Design Engineer at AMD, Orlando).  <br/><b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
+    <td> - Dr. Mao Ye (UCF), Spring 2020 (<b>first employment:</b> AMD (Product Team) in Orlando).  <br/><b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
   </tr>
 </table>
+
+<table align="center" style="width:100%">
+<tr>
+    <th> Post-Doc Mentees</th>
+  </tr>
+  <tr>
+    <td> - Dr. Jian Zhou (UCF), Summer 2020 (<b>co-mentored with Prof. Jun Wang</b>). (<b>first job:</b> Huazhong University of Science and Technology).  <br/><b>Achievement:</b> Modeling and evaluation of the Lelantus scheme</td>
+  </tr>
+</table>
+
 
 <table align="center" style="width:100%">
 <tr> 
