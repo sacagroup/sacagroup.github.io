@@ -128,6 +128,8 @@
 - year: 2021 (^ indicates equal contributions)
   pubs:
 
+
+
   - title: "ProMT: Optimizing Integrity Tree Updates for Write-Intensive Pages in Secure NVMs"
     description: "ACM The 35th International Conference on Supercomputing (ICS)"
     authors:
@@ -135,7 +137,14 @@
     link:
       url:
       display: ICS'21 (Top-Tier Conference)-- Best Paper Candidate
-  
+
+  - title: "DirectNVM: Hardware-Accelerated NVMe SSDs for High-Performance Embedded Computing"
+    description: "ACM Transactions on Embedded Computing Systems (TECS)"
+    authors:
+      Yu Zou, Amro Awad, and Mingjie Lin
+    link:
+      url:
+      display: ACM TECS'21 (Impact Factor 1.53) 
 
   - title: "NASGuard: A Novel Accelerator Architecture for Robust NAS Networks"
     description: "ACM/IEEE The 48th International Symposium on Computer Architecture (ISCA)"
