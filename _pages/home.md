@@ -27,6 +27,8 @@ Our Sponsors:
     <a href="https://www.nsf.gov"><img src="{{ site.url}}{{site.baseurl}}/images/logopic/NSF_4-Color_bitmap_Logo.png" style= "width: 100px;"></a>
     <a href="https://www.public.navy.mil/spawar/Pages/default.aspx"><img src="{{ site.url}}{{site.baseurl}}/images/logopic/spawar.gif" style= "width: 100px;"></a>
     <a href="https://www.darpa.mil/"><img src="{{ site.url}}{{site.baseurl}}/images/logopic/darpa.jpg" style= "width: 100px;"></a>
+    <a href="https://www.afrl.af.mil/"><img src="{{ site.url}}{{site.baseurl}}/images/logopic/AFRL.jpeg" style= "width: 100px;"></a>
+    <a href="https://www.onr.navy.mil/"><img src="{{ site.url}}{{site.baseurl}}/images/logopic/ONR.png" style= "width: 100px;"></a>
   </p>
 </figure>
 
