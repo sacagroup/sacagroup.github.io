@@ -8,4 +8,4 @@ permalink: /contact/
 
 # Contact Us
 
-The best way to contact us is to email Dr. Awad at [amro.awad@ucf.edu](mailto:amro.awad@ucf.edu). Additionally, Dr. Awad's office is located at HEC 339A, and the lab is located at HEC 348.
+The best way to contact us is to email Dr. Awad at [ajawad@ncsu.edu](mailto:ajawad@ncsu.edu). Additionally, Dr. Awad's office is located at EB2 2004A, and the lab is located at EB2-2091.
