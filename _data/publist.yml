@@ -1,6 +1,53 @@
 - year: Selected Publications
   pubs:
 
+  - title: "Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      Kazi Abu Zubair, Sudhanva Gurumurthi, Vilas Sridharan and Amro Awad
+    link:
+      url:
+      display: MICRO'21 (Top-Tier Conference)
+
+  - title: "Dolos: Improving the Performance of Persistent Applications in ADR-Supported Secure Memory"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      Xijing Han, James Tuck and Amro Awad
+    link:
+      url:
+      display: MICRO'21 (Top-Tier Conference)
+
+  - title: "LADDER: Architecting Content and Location-aware Writes for Crossbar Resistive Memories"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      M. Chowdhuryy, M. Rashed, Amro Awad, Rickard Ewetz and Fan Yao
+    link:
+      url: 
+      display: MICRO'21 (Top-Tier Conference) - title: "Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      Kazi Abu Zubair, Sudhanva Gurumurthi, Vilas Sridharan and Amro Awad
+    link:
+      url:
+      display: MICRO'21 (Top-Tier Conference)
+
+  - title: "Dolos: Improving the Performance of Persistent Applications in ADR-Supported Secure Memory"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      Xijing Han, James Tuck and Amro Awad
+    link:
+      url:
+      display: MICRO'21 (Top-Tier Conference)
+
+  - title: "LADDER: Architecting Content and Location-aware Writes for Crossbar Resistive Memories"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      M. Chowdhuryy, M. Rashed, Amro Awad, Rickard Ewetz and Fan Yao
+    link:
+      url: 
+      display: MICRO'21 (Top-Tier Conference)
+
+
   - title: "ProMT: Optimizing Integrity Tree Updates for Write-Intensive Pages in Secure NVMs"
     description: "ACM The 35th International Conference on Supercomputing (ICS)"
     authors:
@@ -129,6 +176,53 @@
   pubs:
 
 
+  - title: "Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      Kazi Abu Zubair, Sudhanva Gurumurthi, Vilas Sridharan and Amro Awad
+    link:
+      url:
+      display: MICRO'21 (Top-Tier Conference)
+
+  - title: "Dolos: Improving the Performance of Persistent Applications in ADR-Supported Secure Memory"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      Xijing Han, James Tuck and Amro Awad
+    link:
+      url:
+      display: MICRO'21 (Top-Tier Conference)
+
+  - title: "LADDER: Architecting Content and Location-aware Writes for Crossbar Resistive Memories"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    authors:
+      M. Chowdhuryy, M. Rashed, Amro Awad, Rickard Ewetz and Fan Yao
+    link:
+      url:
+      display: MICRO'21 (Top-Tier Conference)
+
+  - title: "HERMES: Hardware-Efficient Speculative Dataflow Architecture for Bonsai Merkle Tree-Based Memory Authentication"
+    description: "IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2021"
+    authors:
+      Yu Zou, Mingjie Lin and Amro Awad
+    link:
+      url:
+      display: HOST'21
+
+  - title: "Seeds of SEED: R-SAW- New Side Channels Exploiting Read Asymmetry in MLC Phase Change Memories"
+    description: "IEEE International Symposium on Secure and Private Execution Environment Design (SEED'21)"
+    authors:
+      M. Chowdhuryy, Rickard Ewetz, Amro Awad and Fan Yao
+    link:
+      url:
+      display: SEED'21 
+
+  - title: "ShellCore: Automating Malicious IoT Software Detection by Using Shell Commands Representation"
+    description: "IEEE Internet of Things Journal (IOTJ)"
+    authors:
+      Hisham Alasmary, Afsah Anwar, Ahmed Abusnaina, Abdulrahman Alabduljabbar, Mohammad Abuhamad, An Wang, DaeHun Nyang, Amro Awad, David Mohaisen
+    link:
+      url: http://ieee-iotj.org
+      display: IOTJ'21 (Impact Factor 9.5)
 
   - title: "ProMT: Optimizing Integrity Tree Updates for Write-Intensive Pages in Secure NVMs"
     description: "ACM The 35th International Conference on Supercomputing (ICS)"
