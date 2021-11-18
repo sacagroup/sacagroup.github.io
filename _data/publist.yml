@@ -1,6 +1,15 @@
 - year: Selected Publications
   pubs:
 
+  - title: "Filesystem Encryption or Direct-Access for NVM Filesystems? Let’s Have Both!"
+    description: "IEEE International Symposium on High-Performance Computer Architecture, 2022 (HPCA'22)"
+    authors:
+      Kazi Abu Zubair, David Mohaisen and Amro Awad
+    link:
+      url:
+      display: HPCA'22 (Top-Tier Conference)
+
+
   - title: "Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories"
     description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
     authors:
@@ -149,6 +158,32 @@
 
 - year: All Publications
   pubs:
+
+
+
+- year: 2022
+  pubs:
+
+
+
+  - title: "Filesystem Encryption or Direct-Access for NVM Filesystems? Let’s Have Both!"
+    description: "IEEE International Symposium on High-Performance Computer Architecture, 2022 (HPCA'22)"
+    authors:
+      Kazi Abu Zubair, David Mohaisen and Amro Awad
+    link:
+      url:
+      display: HPCA'22 (Top-Tier Conference)
+
+
+  - title: "ARES: Secure NVM with Processor-Transparent Integrity Verification And Metadata Recovery"
+    description: "ACM Transactions on Embedded Computing Systems (TECS)"
+    authors:
+      Yu Zou, Kazi Abu Zubair, Mazen Alwadi, Rakin Mohammad Shadab, Sanjay Gandham, Amro Awad, and Mingjie Lin
+    link:
+      url:
+      display: ACM TECS'22 (Impact Factor 1.53)
+
+
 
 - year: 2021 (^ indicates equal contributions)
   pubs:
