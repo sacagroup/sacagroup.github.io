@@ -1,3 +1,7 @@
+- date: December 10th, 2021
+  headline: "Our work on secure memory metadata handling in disaggregated systems is accepted in IPDPS'22. Congrats, Mazen!"
+  descr: "Minerva is accepted in IPDPS'22, congrations to Mazen, and thanks to our collaborators from Sandia, UCF and IIT!."
+
 - date: October 27th, 2021
   headline: "Our work on rethinking filesystem encryption in the area of emerging NVMs is accepted in HPCA'22. Congrats, Kazi!"
   descr: "Our filesystem encryption in emerging NVMs is accepted at HPCA'22."
