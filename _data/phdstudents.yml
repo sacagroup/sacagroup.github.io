@@ -9,7 +9,7 @@
 
 - name: John McFarland
   photo: jmac.jpg
-  info: John is currently pursuing a Ph.D in Computer Engineering at UCF. His research interests include Kernel Development and Virtual Memory Systems. He has competed in hackathons across Florida and has also been a finalist for a national engineering design contest.  Other personal experience include micro-controller development and video game design.
+  info: John McFarland is a PhD student at NC State University majoring in Computer Engineering. John received both his Bachelor and Master degrees from the University of Central Florida, before coming to North Carolina to finish his PhD. John's original research focus centered around Real-Time in Virtualized environments, eventually leading to a published conference paper on the subject. Now, he has since shifted his focus, looking into Neuromorphic Computing and the numerous potential applications of this new paradigm. 
   expe: 'Job Placement during PhD: Internship with Navy Surface Warfare Center at Dahlgren'
 
 
@@ -18,40 +18,33 @@
   info: Xijing is a Ph.D. student majoring in Computer Engineering at NC State. Her research interest includes Non-volatile memory systems. She received her bachelor degree from Southeast University, Nanjing and master degree from Brown University, Providence. Before joining NCSU, she worked in the R&D of Cadence in Shanghai.  
   expe:
 
+- name: Ramil Agliamzanov
+  photo: ramil.jpeg
+  info: Ramil Agliamzanov is a first-year Ph.D. student majoring in Computer Engineering at NC State. He received his bachelor degree in Computer Engineering from Ege University, Turkey where he was involved in research in the area of Wireless Sensor Networks, leading to a conference paper and recognition as the top graduation project by a national research council. Prior to joining NC State, he got an award received by top Computer Science teachers in Russia. Ramil's research interests include virtual memory, interconnection networks, resource sharing and virtual machines. His current efforts are in sharing resources in multi-tenant GPUs with predictable slowdown.
 
-- name: Ramil Agliamzanov (joining in Fall'21)
-  photo: NCSU.png
-  info: TBA
+- name: Rahaf Abdullah
+  photo: rahaf.jpeg
+  info: Rahaf is a Ph.D student in computer engineering at NC State University. Her research interests revolve around the memory security of GPUs with the least overheads possible as well as making the best utilization of GPU resources. Rahaf graduated with a Bachelor’s degree in Computer Engineering from An-Najah National University in Nablus, Palestine at the end of 2020. Prior to joining NC State University, she worked as a software engineer developing macOS applications used in the production of laptops and smart devices. 
 
-- name: Rahaf Abdullah (joining in Fall'21)
-  photo: NCSU.png
-  info: TBA
+- name: Debpratim Adak 
+  photo: debpratim.jpeg
+  info: I am a PhD student at NCSU, majoring in Computer Engineering. My primary research focus is efficient performance modeling of an IP. I received my bachelor's degree from Jadavpur University and master's degree from IIT Madras. I worked at INTEL as a SOC Design Engineer after finishing my master's degree. 
 
-- name: Debpratim Adak (joining in Fall'21)
-  photo: NCSU.png
-  info: TBA
-
-- name: Saleh Al-Saleh (joining in Fall'21)
-  photo: NCSU.png
-  info: TBA
-
-- name: Yuqin Wang (joining in Fall'21)
-  photo: NCSU.png
-  info: TBA
+- name: Faiz Alam
+  photo: faiz.jpeg
+  info: Faiz Alam is a first-year Ph.D. student majoring in Computer Engineering at NC State.  His current research interest is to investigate secure architectural support for emerging domain specific hardware.   He received his master degree from Arizona State University where he worked on FPGA emulation of high performance Machine Learning Systems. He received his bachelors degree from Aligarh Muslim University, India. He also worked as a Senior Engineer in Industrial Automation and Control at Larsen and Toubro Limited in Doha, Qatar. 
 
 - name: Shubham Nema
   photo: shubham.jpg
   info: Shubham is a Masters -Thesis (MS-thesis) student at NC State University majoring in Computer Engineering. His primary areas of interest include Hardware-Software codesign and compilers for domain specific architectures. Shubham is keen about exploring new emerging areas in the field of computer architecture. Lately, he has been working at Indian Institute of Science, Bangalore as Research Assistant in the area of compilers and previously at Nvidia Graphics as System Des. Engg. in IP verification and validation. 
   expe:
 
-- name: Rohin Razdan
-  photo: rohin.jpg
-  info: Rohin is an M.S. student majoring in Computer Engineering at NC State. His research interests include secure architectures, fast parallel processing, and embedded kernel optimization. He graduated from the University of Mumbai, India with a bachelor’s degree in Electronics and Telecommunication before joining SACA. He is currently working on an advanced simulation and computing project with Sandia National Labs. 
+
+- name: Vishal Boga
+  photo: NCSU.jpg
+  info: TBA 
   expe:
 
-- name: Alan Gardner
-  photo: alan.png
-  info: Alan is an M.S. student at NC State majoring in Computer Engineering with a focus on computer architecture. His areas of interest focus on computer microarchitecture and specifically the implementation of security features in the architecture itself, with a passion for RISC-V applications and FPGA development. He obtained his Bachelor of Science degree from Oregon Institute of Technology in Klamath Falls. His experience includes FPGA programming using Verilog HDL and embedded systems. 
-  expe:
+
 
 
