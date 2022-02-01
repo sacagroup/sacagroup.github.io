@@ -7,6 +7,17 @@
   photo: JUSTIN.png
   info: Justin is an M.S. student at NC State majoring in Computer Science. His primary areas of interest include scientific computing, high performance computing and computer networking. He graduated from the University of Pennsylvania with a bachelor’s degree in Economics. Recently he has worked on high performance computing applications and is currently working on a dynamic binary translation project. 
 
+
+- name: Debpratim Adak 
+  photo: debpratim.jpeg
+  info: I am a PhD student at NCSU, majoring in Computer Engineering. My primary research focus is efficient performance modeling of an IP. I received my bachelor's degree from Jadavpur University and master's degree from IIT Madras. I worked at INTEL as a SOC Design Engineer after finishing my master's degree. 
+
+- name: Faiz Alam
+  photo: faiz.jpeg
+  info: Faiz Alam is a first-year Ph.D. student majoring in Computer Engineering at NC State.  His current research interest is to investigate secure architectural support for emerging domain specific hardware.   He received his master degree from Arizona State University where he worked on FPGA emulation of high performance Machine Learning Systems. He received his bachelors degree from Aligarh Muslim University, India. He also worked as a Senior Engineer in Industrial Automation and Control at Larsen and Toubro Limited in Doha, Qatar. 
+
+
+
 - name: John McFarland
   photo: jmac.jpg
   info: John McFarland is a PhD student at NC State University majoring in Computer Engineering. John received both his Bachelor and Master degrees from the University of Central Florida, before coming to North Carolina to finish his PhD. John's original research focus centered around Real-Time in Virtualized environments, eventually leading to a published conference paper on the subject. Now, he has since shifted his focus, looking into Neuromorphic Computing and the numerous potential applications of this new paradigm. 
@@ -26,14 +37,6 @@
   photo: rahaf.jpeg
   info: Rahaf is a Ph.D student in computer engineering at NC State University. Her research interests revolve around the memory security of GPUs with the least overheads possible as well as making the best utilization of GPU resources. Rahaf graduated with a Bachelor’s degree in Computer Engineering from An-Najah National University in Nablus, Palestine at the end of 2020. Prior to joining NC State University, she worked as a software engineer developing macOS applications used in the production of laptops and smart devices. 
 
-- name: Debpratim Adak 
-  photo: debpratim.jpeg
-  info: I am a PhD student at NCSU, majoring in Computer Engineering. My primary research focus is efficient performance modeling of an IP. I received my bachelor's degree from Jadavpur University and master's degree from IIT Madras. I worked at INTEL as a SOC Design Engineer after finishing my master's degree. 
-
-- name: Faiz Alam
-  photo: faiz.jpeg
-  info: Faiz Alam is a first-year Ph.D. student majoring in Computer Engineering at NC State.  His current research interest is to investigate secure architectural support for emerging domain specific hardware.   He received his master degree from Arizona State University where he worked on FPGA emulation of high performance Machine Learning Systems. He received his bachelors degree from Aligarh Muslim University, India. He also worked as a Senior Engineer in Industrial Automation and Control at Larsen and Toubro Limited in Doha, Qatar. 
-
 - name: Shubham Nema
   photo: shubham.jpg
   info: Shubham is a Masters -Thesis (MS-thesis) student at NC State University majoring in Computer Engineering. His primary areas of interest include Hardware-Software codesign and compilers for domain specific architectures. Shubham is keen about exploring new emerging areas in the field of computer architecture. Lately, he has been working at Indian Institute of Science, Bangalore as Research Assistant in the area of compilers and previously at Nvidia Graphics as System Des. Engg. in IP verification and validation. 
@@ -41,8 +44,8 @@
 
 
 - name: Vishal Boga
-  photo: NCSU.jpg
-  info: TBA 
+  photo: vishal.jpeg
+  info: Vishal Boga is an M.S. student majoring in Computer Engineering at North Carolina State University. Vishal's research interests are in the areas of computer architecture, parallel and high performance computing. He received his Bachelor's degree from Manipal Institute of Technology, India and worked as a Firmware Engineer at Intel before joining the SACA group. 
   expe:
 
 
