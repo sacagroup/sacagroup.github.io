@@ -178,7 +178,7 @@
   - title: "Eris: Fault Injection and Tracking Framework for Reliability Analysis of Open-Source Hardware"
     description: "Proceedings of  the 2022 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2022)"
     authors:
-      Shubham Nema, Justin Kirschner, Debpratim Adak, Sapan Agarwal, Ben Feinberg, Arun F. Rodrigues, Matthew Marinella, and Amro Awad
+      Shubham Nema, Justin Kirschner, Debpratim Adak, Sapan Agarwal, Ben Feinberg, Arun Rodrigues, Matt Marinella, and Amro Awad
     link:
       url:
       display: IEEE ISPASS'22
