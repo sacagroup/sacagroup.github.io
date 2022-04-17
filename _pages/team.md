@@ -208,7 +208,7 @@ permalink: /members/
 
 <table align="center" style="width:100%">
 <tr> 
-    <th> PhD graduates</th>
+    <th> PhD Graduates</th>
   </tr>
 
   <tr>
@@ -237,7 +237,7 @@ permalink: /members/
 
 <table align="center" style="width:100%">
 <tr> 
-    <th>Master graduates</th>
+    <th>Master Graduates</th>
   </tr>
 
   <tr>
@@ -252,7 +252,7 @@ permalink: /members/
 
 <table align="center" style="width:100%">
   <tr> 
-    <th>Undergraduate graduates</th>
+    <th>Undergraduate Graduates</th>
   </tr>
 
    <tr>
