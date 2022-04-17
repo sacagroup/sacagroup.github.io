@@ -174,6 +174,34 @@
   pubs:
 
 
+
+  - title: "Eris: Fault Injection and Tracking Framework for Reliability Analysis of Open-Source Hardware"
+    description: "Proceedings of  the 2022 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2022)"
+    authors:
+      Shubham Nema, Justin Kirschner, Debpratim Adak, Sapan Agarwal, Ben Feinberg, Arun F. Rodrigues, Matthew Marinella, and Amro Awad
+    link:
+      url:
+      display: IEEE ISPASS'22
+
+
+  - title: "A Keylogging Inference Attack on Air-Tapping Keyboards"
+    description: "Proceedings of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)"
+    authors:
+      ülkü Meteriz-Yildiran, Necip Fazil Yildiran, Amro Awad, and David Mohaisen
+    link:
+      url:
+      display: IEEE VR'22 (Top-Tier Conference) -- Best Paper Candidate
+
+
+  - title: "Towards Resilient Analog In-Memory Deep Learning via Data Layout Re-Organization"
+    description: "Design Automation Conference, 2022 (DAC'22)"
+    authors:
+      Mohammed Rashed, Amro Awad, Sumit Kumar Jha, and Rickard Ewetz
+    link:
+      url:
+      display: DAC'22
+
+
   - title: "Transpose-Xen: Virtualized Mixed-Criticality through Dynamic Allocation"
     description: "The 37th ACM/SIGAPP Symposium On Applied Computing, 2022 (SAC'22)"
     authors:
