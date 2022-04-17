@@ -16,8 +16,8 @@ I don't manage the admission process at NC State. I can only suggest if your app
 <b> Funding?  </b>
 I support my PhD students with salary to cover living expenses, in addition to cover health insurance and tuition as parts of the financial package. 
 
-<b> How many hours are you expected to work? </b>
-For PhD, to be able to graduate on time with outstanding publication record, you will need to work/study 50-70 hours/week towards your dissertation topic. While sometimes the funded project you work on is directly relevant to your PhD topic, it can happen that you work on a different topic or funded as a TA, in both cases you still need to put significant efforts towards your dissertation.
+<b> How many hours are you expected to study/work per week? </b>
+For PhD, to be able to graduate on time with outstanding publication record, you will need to work/study 50-70 hours/week towards your dissertation topic. While sometimes the funded project you work on is directly relevant to your PhD topic, it can happen that you work on a different topic or funded as a TA, in both cases you still need to put significant efforts towards your dissertation. 
 
 <b> Do I fund master students? Can I nominate you for TA? </b>
 Most of the problems I work on require solid understanding of the fundamentals and good technical skills. Therefore, I prefer students with time horizon of 3-4 years. Thus, unless I worked with you (e.g., indepdendent study) and confident about your skills and ability to deliver for a specific project, it is unlikely that I will consider you for any funding. TA selections are made by the department, and my nominations will be only for students I worked with and I am confident about their work ethics. If I want to work with you, I will initially offer you RA not TA. 
