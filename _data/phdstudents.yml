@@ -3,10 +3,13 @@
   info: Kazi is a Ph.D. student majoring in Computer Engineering at NC State. His research interest includes secure memory architecture, NVM security, and memory reliability. He received his bachelor degree from the University of Chittagong, Bangladesh, and worked in the R&D of several startup companies in Bangladesh before joining SACA. At SACA, he published the first work addressing the recovery time in secure NVMs (Anubis ISCA'19).
   expe:  
 
+- name: Joshua Kalyanapu
+  photo: JOSHUA.jpeg
+  info: Joshua Kalyanapu is a Ph.D. student in Computer Engineering at NC State. In May 2021, he received his bachelor's degree in Computer Engineering and Mathematics from Iowa State University. Although he has previously done research in neural networks and memory systems, his current research interest is in vehicle security.
+
 - name: Justin Kirschner
   photo: JUSTIN.png
   info: Justin is an M.S. student at NC State majoring in Computer Science. His primary areas of interest include scientific computing, high performance computing and computer networking. He graduated from the University of Pennsylvania with a bachelor’s degree in Economics. Recently he has worked on high performance computing applications and is currently working on a dynamic binary translation project. 
-
 
 - name: Debpratim Adak 
   photo: debpratim.jpeg
@@ -16,13 +19,10 @@
   photo: faiz.jpeg
   info: Faiz Alam is a first-year Ph.D. student majoring in Computer Engineering at NC State.  His current research interest is to investigate secure architectural support for emerging domain specific hardware.   He received his master degree from Arizona State University where he worked on FPGA emulation of high performance Machine Learning Systems. He received his bachelors degree from Aligarh Muslim University, India. He also worked as a Senior Engineer in Industrial Automation and Control at Larsen and Toubro Limited in Doha, Qatar. 
 
-
-
 - name: John McFarland
   photo: jmac.jpg
   info: John McFarland is a PhD student at NC State University majoring in Computer Engineering. John received both his Bachelor and Master degrees from the University of Central Florida, before coming to North Carolina to finish his PhD. John's original research focus centered around Real-Time in Virtualized environments, eventually leading to a published conference paper on the subject. Now, he has since shifted his focus, looking into Neuromorphic Computing and the numerous potential applications of this new paradigm. 
   expe: 'Job Placement during PhD: Internship with Navy Surface Warfare Center at Dahlgren'
-
 
 - name: Xijing Han (co-adivsed with Prof. James Tuck)
   photo: xijing.jpg
@@ -37,9 +37,21 @@
   photo: rahaf.jpeg
   info: Rahaf is a Ph.D student in computer engineering at NC State University. Her research interests revolve around the memory security of GPUs with the least overheads possible as well as making the best utilization of GPU resources. Rahaf graduated with a Bachelor’s degree in Computer Engineering from An-Najah National University in Nablus, Palestine at the end of 2020. Prior to joining NC State University, she worked as a software engineer developing macOS applications used in the production of laptops and smart devices. 
 
+
+- name: Nandan Dayal
+  photo: NANDAN.png
+  info: Nandan is a second year M.S. student majoring in Computer Engineering at North Carolina State University. Nandan's research interests are in the areas of computer architecture and security. He received his B.S. from University of Maryland, College Park
+  expe:
+
+
 - name: Shubham Nema
   photo: shubham.jpg
   info: Shubham is a Masters -Thesis (MS-thesis) student at NC State University majoring in Computer Engineering. His primary areas of interest include Hardware-Software codesign and compilers for domain specific architectures. Shubham is keen about exploring new emerging areas in the field of computer architecture. Lately, he has been working at Indian Institute of Science, Bangalore as Research Assistant in the area of compilers and previously at Nvidia Graphics as System Des. Engg. in IP verification and validation. 
+  expe:
+
+- name: David Deininger
+  photo: DAVID.jpeg
+  info: David is a U.S. Navy Veteran, studying for his M.S. in Electrical Engineering at North Carolina State University. He attained his undergraduate degree from Clarkson University in 2016. Since then, he has worked in avionics electronics and high precision motion systems. A few of his eclectic professional interests include circuit design, sensors, signal processing, and motion control.
   expe:
 
 
@@ -48,6 +60,9 @@
   info: Vishal Boga is an M.S. student majoring in Computer Engineering at North Carolina State University. Vishal's research interests are in the areas of computer architecture, parallel and high performance computing. He received his Bachelor's degree from Manipal Institute of Technology, India and worked as a Firmware Engineer at Intel before joining the SACA group. 
   expe:
 
-
+- name: Shiva Kaushik
+  photo: SHIVA.png
+  info: Shiva is a Master's student, majoring in Computer Engineering. His current research focus is on security policy verification using information flow and reliability analysis using fault injection. His areas of interest include HW/SW Co-Design, machine learning compilers and robust AI accelerator design. He received his Bachelor's degree from the Indian Institute of Information Technology, Chennai and worked as an embedded software engineer at Harman International prior to joining NCSU.  
+  expe:
 
 
