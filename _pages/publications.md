@@ -14,7 +14,7 @@ permalink: /publications/
 -----
 {% for publi in yr.pubs %}
 
-{% if publi.team %}
+{% if {{publi.team}}=="True" %}
   <b style="color:blue;">[{{ publi.link.display }}] </b> &nbsp;
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.title }}</a> <br /> {{ publi.description }} 
 {% else %}
