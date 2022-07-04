@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Peer-Reviewed Publication and PrePrints
+# Peer-Reviewed Publications and PrePrints
 <h3 style="color:blue;"> <u> Lead Author is a Directly Mentored Student/PostDoc or Myself</u> </h3>
 {% for yr in site.data.publist %}
 <h3>{{ yr.year }}</h3>
