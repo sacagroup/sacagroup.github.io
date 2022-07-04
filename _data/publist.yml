@@ -12,7 +12,6 @@
 
 
   - title: "Adaptive Security Support for Heterogeneous Memory on GPUs"
-    team: "True"
     description: "IEEE International Symposium on High-Performance Computer Architecture, 2022 (HPCA'22)"
     authors:
       Shougang Yuan, Amro Awad, Ardhi Yudha, Yan Solihin and Huiyang Zhou
@@ -23,6 +22,7 @@
 
   - title: "Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories"
     description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    team: "True"
     authors:
       Kazi Abu Zubair, Sudhanva Gurumurthi, Vilas Sridharan and Amro Awad
     link:
@@ -31,6 +31,7 @@
 
   - title: "Dolos: Improving the Performance of Persistent Applications in ADR-Supported Secure Memory"
     description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    team: "True"
     authors:
       Xijing Han, James Tuck and Amro Awad
     link:
@@ -48,6 +49,7 @@
 
   - title: "ProMT: Optimizing Integrity Tree Updates for Write-Intensive Pages in Secure NVMs"
     description: "ACM The 35th International Conference on Supercomputing (ICS)"
+    team: "True"
     authors:
       Mazen Alwadi, David Mohaisen, and Amro Awad
     link:
@@ -64,6 +66,7 @@
 
   - title: "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
+    team: "True"
     authors:
       Mazen Alwadi^, Vamsee Reddy Kommareddy^, Clayton Hughes, Simon Hammond, and Amro Awad
     link:
@@ -72,6 +75,7 @@
 
   - title: "DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
+    team: "True"
     authors:
       Vamsee Reddy Kommareddy, Clayton Hughes, Simon Hammond, and Amro Awad
     link:
@@ -81,6 +85,7 @@
 
   - title: "Lelantus: Fine-Granularity Copy-On-Write Operations for Secure Non-Volatile Memories"
     description: "ACM/IEEE The 47th International Symposium on Computer Architecture (ISCA)"
+    team: "True"
     authors:
       Jian Zhou, Amro Awad, and Jun Wang
     link:
@@ -99,6 +104,7 @@
 
   - title: "Anubis: Ultra-Low Overhead and Practical Recovery Time for Secure Non-Volatile Memories"
     description: "ACM/IEEE The 46th International Symposium on Computer Architecture (ISCA)"
+    team: "True"
     authors:
       Kazi Abu Zubiar and Amro Awad
     link:
@@ -108,6 +114,7 @@
 
   - title: "Triad-NVM: Persistency for Integrity-Protected and Encrypted Non-Volatile Memories"
     description: "ACM/IEEE The 46th International Symposium on Computer Architecture (ISCA)"
+    team: "True"
     authors:
       Amro Awad, Mao Ye, Yan Solihin, Laurent Njilla and Kazi Abu Zubair
     link:
@@ -116,6 +123,7 @@
 
   - title: "Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories"
     description: "The 51st IEEE/ACM International Symposium on Microarchitecture (MICRO'18)"
+    team: "True"
     authors:
       Mao Ye, Clayton Hughes, and Amro Awad
     link:
@@ -125,6 +133,7 @@
 
   - title: "Avoiding TLB Shootdowns through Self-invalidating TLB Entries"
     description: "The 26th International Conference on. Parallel Architectures and Compilation Techniques (PACT)"
+    team: "True"
     authors:
       Amro Awad, Arkaprava Basu, Sergey Blagodurov, Yan Solihin and Gabriel H. Loh.
     link:
@@ -133,6 +142,7 @@
 
   - title: "ObfusMem: A Low-Overhead AccessObfuscation for Trusted Memories"
     description: "ACM/IEEE The 44th International Symposium on Computer Architecture (ISCA)"
+    team: "True"
     authors:
       Amro Awad, Yipeng Wang, Deborah Shands and Yan Solihin.
     link:
@@ -142,6 +152,7 @@
 
   - title: "Write-Aware Management of NVM-based Memory Extensions"
     description: "The ACM International Conference on Supercomputing (ICS)"
+    team: "True"
     authors:
       Amro Awad, Sergey Blagodurov and Yan Solihin.
     link:
@@ -150,6 +161,7 @@
 
   - title: "Silent Shredder: Zero-Cost Shredding for Secure Non-Volatile Main Memory Controllers"
     description: "The 21st International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)"
+    team: "True"
     authors:
       Amro Awad, Pratyusa Mandthata, Yan Solihin, Stuart Haber and William Horne.
     link:
@@ -158,6 +170,7 @@
 
   - title: "STM : Cloning the Spatial and Temporal Memory Access Behavior"
     description: "The 20th IEEE International Symposium on High Performance Computer Architecture (HPCA)"
+    team: "True"
     authors: Amro Awad, Yan Solihin.
       
     link:
@@ -179,6 +192,7 @@
 
   - title: "Eris: Fault Injection and Tracking Framework for Reliability Analysis of Open-Source Hardware"
     description: "Proceedings of  the 2022 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2022)"
+    team: "True"
     authors:
       Shubham Nema, Justin Kirschner, Debpratim Adak, Sapan Agarwal, Ben Feinberg, Arun Rodrigues, Matt Marinella, and Amro Awad
     link:
@@ -206,6 +220,7 @@
 
   - title: "Transpose-Xen: Virtualized Mixed-Criticality through Dynamic Allocation"
     description: "The 37th ACM/SIGAPP Symposium On Applied Computing, 2022 (SAC'22)"
+    team: "True"
     authors:
       John McFarland and Amro Awad
     link:
@@ -214,6 +229,7 @@
 
   - title: "Minerva: Rethinking Secure Architectures for the Era of Fabric-Attached Memory Architectures"
     description: "The 36th IEEE International Parallel and Distributed Processing Symposium, 2022 (IPDPS'22)"
+    team: "True"
     authors:
       Mazen Alwadi, Rujia Wang, David Mohaisen, Clayton Hughes, Simon Hammond and Amro Awad
     link:
@@ -223,6 +239,7 @@
 
   - title: "Filesystem Encryption or Direct-Access for NVM Filesystems? Let’s Have Both!"
     description: "IEEE International Symposium on High-Performance Computer Architecture, 2022 (HPCA'22)"
+    team: "True"
     authors:
       Kazi Abu Zubair, David Mohaisen and Amro Awad
     link:
@@ -274,6 +291,7 @@
 
   - title: "Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories"
     description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    team: "True"
     authors:
       Kazi Abu Zubair, Sudhanva Gurumurthi, Vilas Sridharan and Amro Awad
     link:
@@ -282,6 +300,7 @@
 
   - title: "Dolos: Improving the Performance of Persistent Applications in ADR-Supported Secure Memory"
     description: "IEEE/ACM International Symposium on Microarchitecture, 2021 (MICRO'21)"
+    team: "True"
     authors:
       Xijing Han, James Tuck and Amro Awad
     link:
@@ -314,6 +333,7 @@
 
   - title: "ProMT: Optimizing Integrity Tree Updates for Write-Intensive Pages in Secure NVMs"
     description: "ACM The 35th International Conference on Supercomputing (ICS)"
+    team: "True"
     authors:
       Mazen Alwadi, David Mohaisen, and Amro Awad
     link:
@@ -338,6 +358,7 @@
 
   - title: "VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets"
     description: "The IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2021"
+    team: "True"
     authors:
       Abdullah Arafat, Zhishan Guo, and Amro Awad
     link:
@@ -356,6 +377,7 @@
 
   - title: "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
+    team: "True"
     authors:
       Mazen Alwadi^, Vamsee Reddy Kommareddy^, Clayton Hughes, Simon Hammond, and Amro Awad
     link:
@@ -364,6 +386,7 @@
 
   - title: "DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems"
     description: "The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27)"
+    team: "True"
     authors:
       Vamsee Reddy Kommareddy, Clayton Hughes, Simon Hammond, and Amro Awad
     link:
@@ -393,6 +416,7 @@
 
   - title: "Phoenix: Towards Ultra-Low Overhead, Recoverable, and Persistently Secure NVM"
     description: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
+    team: "True"
     authors:
       Mazen Al-Wadi, Kazi Abu Zubair, Aziz Mohaisen, and Amro Awad
     link:
@@ -401,6 +425,7 @@
 
   - title: "PreFAM: Understanding the Impact of Prefetching in Fabric-Attached Memory Architectures"
     description: "The International Symposium on Memory Systems (MemSys)"
+    team: "True"
     authors:
       Vamsee Reddy Kommareddy, Jagadish Kotra, Simon David Hammond, Clayton Hughes, and Amro Awad
     link:
@@ -410,6 +435,7 @@
 
   - title: "Caching Techniques for Security Metadata in Integrity-Protected Fabric-Attached Memories"
     description: "EAI Endorsed Transactions on Security and Safety"
+    team: "True"
     authors:
       Mazen Al-Wadi and Amro Awad
     link:
@@ -418,6 +444,7 @@
 
   - title: "DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems"
     description: "Archival e-Print (ArXiv)"
+    team: "True"
     authors:
       Vamsee Reddy Kommareddy, Clayton Hughes, Simon David Hammond, Amro Awad
     link:
@@ -428,6 +455,7 @@
 
   - title: "Lelantus: Fine-Granularity Copy-On-Write Operations for Secure Non-Volatile Memories"
     description: "ACM/IEEE The 47th International Symposium on Computer Architecture (ISCA)"
+    team: "True"
     authors:
       Jian Zhou, Amro Awad, and Jun Wang
     link:
@@ -445,6 +473,7 @@
 
   - title: "Ensuring Fast Crash Recovery for Secure NVMs"
     description: "The 11th Annual Non-volatile Memories Workshop (NVMW)"
+    team: "True"
     authors:
       Kazi Abu Zubair and Amro Awad
     link:
@@ -459,6 +488,7 @@
 
   - title: "Phoenix: Towards Persistently Secure, Recoverable, and NVM Friendly Tree of Counters"
     description: "Archival e-Print (ArXiv)"
+    team: "True"
     authors:
       Mazen Alwadi, Aziz Mohaisen and Amro Awad
     link:
@@ -468,6 +498,7 @@
 
   - title: "Are Crossbar Memories Secure? New Security Vulnerabilities in Crossbar Memories"
     description: "IEEE Computer Architecture Letters (CAL)"
+    team: "True"
     authors:
       Vamsee Reddy Kommareddy, Baogang Zhang, Fan Yao, Rickard Ewetz, and Amro Awad
     link:
@@ -478,6 +509,7 @@
 
   - title: "Page Migration Support for Disaggregated Non-Volatile Memories"
     description: "The International Symposium on Memory Systems (MemSys)"
+    team: "True"
     authors:
       Vamsee Reddy Kommareddy, Simon David Hammond, Clayton Hughes, Ahmad Samih, and Amro Awad
     link:
@@ -487,6 +519,7 @@
 
   - title: "Towards Low-Cost Mechanisms to Enable Restoration of Encrypted Non-Volatile Memories"
     description: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
+    team: "True"
     authors:
       Mao Ye, Kazi Abu Zubair, Aziz Mohaisen, and Amro Awad
     link:
@@ -503,6 +536,7 @@
 
   - title: "Persistently-Secure Processors: Challenges and Opportunities for Securing Non-Volatile Memories"
     description: "IEEE Computer Society Annual Symposium on VLSI (ISVLSI)"
+    team: "True"
     authors:
       Amro Awad, Suboh Suboh, Kazi Abu Zubair, Mao Ye and Mazen Al-Wadi 
     link:
@@ -512,6 +546,7 @@
 
   - title: "Investigating Fairness in Disaggregated Non-Volatile Memories"
     description: "IEEE Computer Society Annual Symposium on VLSI (ISVLSI)"
+    team: "True"
     authors:
       Vamsee Reddy Kommareddy, Clayton Hughes, Simon David Hammond and Amro Awad
     link:
@@ -530,6 +565,7 @@
 
   - title: "Anubis: Ultra-Low Overhead and Practical Recovery Time for Secure Non-Volatile Memories"
     description: "ACM/IEEE The 46th International Symposium on Computer Architecture (ISCA)"
+    team: "True"
     authors:
       Kazi Abu Zubiar and Amro Awad
     link:
@@ -539,6 +575,7 @@
 
   - title: "Triad-NVM: Persistency for Integrity-Protected and Encrypted Non-Volatile Memories"
     description: "ACM/IEEE The 46th International Symposium on Computer Architecture (ISCA)"
+    team: "True"
     authors:
       Amro Awad, Mao Ye, Yan Solihin, Laurent Njilla and Kazi Abu Zubair
     link:
@@ -555,6 +592,7 @@
 
   - title: "Quantifying Performance Determinism in Virtualized Mixed-Criticality Systems"
     description: "The 22nd IEEE International Symposium on Real-Time Computing (ISORC)"
+    team: "True"
     authors:
       Andrew Hughes and Amro Awad
     link:
@@ -563,6 +601,7 @@
 
   - title: "Exploration of Cache and Memory Bandwidth Allocation for Real-Time Systems"
     description: "Workshop on Architectures and Systems for Autonomous Devices (ASAD-2019), workshop co-held with HPCA 2019"
+    team: "True"
     authors:
       Nicholas Omusi (Presenter), Andrew Hughes, and Amro Awad
     link:
@@ -571,6 +610,7 @@
 
   - title: "Impact of Virtualization on Mixed-Criticality Systems"
     description: "Workshop on Architectures and Systems for Autonomous Devices (ASAD-2019), workshop co-held with HPCA 2019"
+    team: "True"
     authors:
       Andrew Hughes (Presenter) , and Amro Awad
     link:
@@ -579,6 +619,7 @@
 
   - title: "Persistent Security: Rethinking Secure Processor Design in the Era of Persistent Memories"
     description: "Built-in Security: Architecture, Chip and System, workshop co-held with HPCA 2019"
+    team: "True"
     authors:
       Amro Awad
     link:
@@ -588,6 +629,7 @@
 
   - title: "Enforcing Fairness in Disaggregated Non-Volatile Memory Systems"
     description: "Twelfth International Workshop on Programmability and Architectures for Heterogeneous Multicores (MULTIPROG-2019), co-held with HiPEAC'19"
+    team: "True"
     authors:
       Vamsee R. Kommareddy, Clayton Hughes, Simon Hammond and Amro Awad
     link:
@@ -598,6 +640,7 @@
   pubs:
   - title: "Triad-NVM: Persistent-Security for Integrity-Protected and Encrypted Non-Volatile Memories (NVMs)"
     description: "Archival e-Print (ArXiv)"
+    team: "True"
     authors:
       Amro Awad, Laurent Njilla and Mao Ye
     link:
@@ -607,6 +650,7 @@
 
   - title: "Exploring Allocation Policies in Disaggregated Non-Volatile Memories"
     description: "Workshop on Memory Centric High Performance Computing, co-located with SC'18"
+    team: "True"
     authors:
       Vamsee R. Kommareddy, Clayton Hughes, Simon Hammond and Amro Awad
     link:
@@ -615,6 +659,7 @@
 
   - title: "Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories"
     description: "The 51st IEEE/ACM International Symposium on Microarchitecture (MICRO'18)"
+    team: "True"
     authors:
       Mao Ye, Clayton Hughes, and Amro Awad
     link:
@@ -633,6 +678,7 @@
   pubs:
   - title: "Performance Analysis for Using Non-Volatile Memory DIMMs: Opportunities and Challenges"
     description: "The International Symposium on Memory Systems (MemSys)"
+    team: "True"
     authors:
       Amro Awad, Simon Hammond, Clayton Hughes, Arun Rodrigues, Scott Hemmert, and Robert Hoekstra.
     link:
@@ -641,6 +687,7 @@
 
   - title: "Avoiding TLB Shootdowns through Self-invalidating TLB Entries"
     description: "The 26th International Conference on. Parallel Architectures and Compilation Techniques (PACT)"
+    team: "True"
     authors:
       Amro Awad, Arkaprava Basu, Sergey Blagodurov, Yan Solihin and Gabriel H. Loh.
     link:
@@ -648,6 +695,7 @@
       display: PACT-2017 (Top-Tier Conference)
 
   - title: "ObfusMem: A Low-Overhead AccessObfuscation for Trusted Memories"
+    team: "True"
     description: "ACM/IEEE The 44th International Symposium on Computer Architecture (ISCA)"
     authors:
       Amro Awad, Yipeng Wang, Deborah Shands and Yan Solihin.
@@ -667,6 +715,7 @@
   pubs:
   - title: "Accurate Cloning of the Memory Access Behavior"
     description: "IPSJ Transactions on System LSI Design Methodology (T-SLDM)"
+    team: "True"
     authors:
       Amro Awad, Ganesh Balakrishnan, Yipeng Wang and Yan Solihin.
     link:
@@ -675,6 +724,7 @@
 
   - title: "Write-Aware Management of NVM-based Memory Extensions"
     description: "The ACM International Conference on Supercomputing (ICS)"
+    team: "True"
     authors:
       Amro Awad, Sergey Blagodurov and Yan Solihin.
     link:
@@ -682,6 +732,7 @@
       display: ICS 2016 (Top-Tier Conference)
 
   - title: "Silent Shredder: Zero-Cost Shredding for Secure Non-Volatile Main Memory Controllers"
+    team: "True"
     description: "The 21st International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)"
     authors:
       Amro Awad, Pratyusa Mandthata, Yan Solihin, Stuart Haber and William Horne.
@@ -693,6 +744,7 @@
   pubs:
   - title: "Non-Volatile Memory Host Controller Interfaces Performance Analysis in High-Performance I/O Systems"
     description: "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)"
+    team: "True"
     authors: Amro Awad, Brett Kettering and Yan Solihin.
       
     link:
@@ -703,6 +755,7 @@
   pubs:
   - title: "STM : Cloning the Spatial and Temporal Memory Access Behavior"
     description: "The 20th IEEE International Symposium on High Performance Computer Architecture (HPCA)"
+    team: "True"
     authors: Amro Awad, Yan Solihin.
       
     link:
@@ -713,6 +766,7 @@
   pubs:
   - title: "Undoing sending an E-mail"
     description: "Undergraduate Research Conference (URC)"
+    team: "True"
     authors: Amro Awad, Hatem S. Mashaqi, Abdirahman S. Alasow, and Ahmad T. Al-Hammouri.
       
     link:
