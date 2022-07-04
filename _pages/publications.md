@@ -8,13 +8,12 @@ permalink: /publications/
 
 
 # Peer-Reviewed Publications and PrePrints
-<h3 style="color:blue;"> <u> Lead Author is a Directly Mentored Student/PostDoc or Myself</u> </h3>
 {% for yr in site.data.publist %}
 <h3>{{ yr.year }}</h3>
 -----
 {% for publi in yr.pubs %}
 
-{% if publi.team=="True" %}
+{% if publi.team=="NA" %}
   <b style="color:blue;"> <u> [{{ publi.link.display }}] </u> </b> &nbsp;
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.title }}</a> <br /> {{ publi.description }} 
 {% else %}
