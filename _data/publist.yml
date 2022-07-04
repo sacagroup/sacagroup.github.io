@@ -1,4 +1,4 @@
-- year:<h1 style="color:blue;"> Selected Publications</h1> 
+- year: Selected Publications
   pubs:
 
   - title: "Filesystem Encryption or Direct-Access for NVM Filesystems? Let’s Have Both!"
