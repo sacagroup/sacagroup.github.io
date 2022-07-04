@@ -2,6 +2,7 @@
   pubs:
 
   - title: "Filesystem Encryption or Direct-Access for NVM Filesystems? Let’s Have Both!"
+    team: "True"
     description: "IEEE International Symposium on High-Performance Computer Architecture, 2022 (HPCA'22)"
     authors:
       Kazi Abu Zubair, David Mohaisen and Amro Awad
@@ -11,6 +12,7 @@
 
 
   - title: "Adaptive Security Support for Heterogeneous Memory on GPUs"
+    team: "True"
     description: "IEEE International Symposium on High-Performance Computer Architecture, 2022 (HPCA'22)"
     authors:
       Shougang Yuan, Amro Awad, Ardhi Yudha, Yan Solihin and Huiyang Zhou
