@@ -13,8 +13,14 @@ permalink: /publications/
 <h3>{{ yr.year }}</h3>
 -----
 {% for publi in yr.pubs %}
-  <b>[{{ publi.link.display }}] </b> &nbsp;
+
+{% if publi.team %}
+  <b style="color:blue;">[{{ publi.link.display }}] </b> &nbsp;
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.title }}</a> <br /> {{ publi.description }} 
+{% else %}
+ <b>[{{ publi.link.display }}] </b> &nbsp;
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.title }}</a> <br /> {{ publi.description }}
+{% endif %}
 
 {% endfor %}
 {% endfor %}
