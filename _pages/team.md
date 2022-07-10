@@ -213,8 +213,7 @@ permalink: /members/
 
 
   <tr>
-    <td> - Dr. Kazi Zubair (NC State), Summer 2022 (<b>Currently:</b> CPU Architect at Intel (Product Team) in Santa Clara).  <br/><b>PhD achievements:</b> (1) Designing, modeling and evaluation for ultra-fast crash recovery schemes of secure NVMs (2) Inventing and evaluating novel schemes for improving reliability of secure NVMs. (3) Evaluating and designing efficient hardware support for supporting filesystem encryption in NVMs. 
-
+    <td> - Dr. Kazi Zubair (NC State), Summer 2022 (<b>Currently:</b> CPU Architect at Intel (Product Team) in Santa Clara).  <br/><b>PhD achievements:</b> (1) Designing, modeling and evaluation for ultra-fast crash recovery schemes of secure NVMs (2) Inventing and evaluating novel schemes for improving reliability of secure NVMs. (3) Evaluating and designing efficient hardware support for supporting filesystem encryption in NVMs. </td>
  </tr>
 
 
