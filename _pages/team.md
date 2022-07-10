@@ -205,13 +205,9 @@ permalink: /members/
  <tr> <td> (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM.) </td></tr><br/>
 
 
-<h2> PhD Graduates </h2>
+<h3 style="color:blue;"> PhD Graduates </h3>
 
 <table align="center" style="width:100%">
-<tr> 
-    <h2> <th> PhD Graduates</th> </h2>
-  </tr>
-
 
   <tr>
     <td> - Dr. Kazi Zubair (NC State), Summer 2022 (<b>Currently:</b> CPU Architect at Intel (Product Team) in Santa Clara).  <br/><b>PhD achievements:</b> (1) Designing, modeling and evaluation for ultra-fast crash recovery schemes of secure NVMs (2) Inventing and evaluating novel schemes for improving reliability of secure NVMs. (3) Evaluating and designing efficient hardware support for supporting filesystem encryption in NVMs. </td>
