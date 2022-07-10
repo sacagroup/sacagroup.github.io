@@ -205,7 +205,7 @@ permalink: /members/
  <tr> <td> (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM.) </td></tr><br/>
 
 
-<h3 style="color:blue;"> PhD Graduates </h3>
+<h3 style="color:blue;"> <u> PhD Graduates </u> </h3>
 
 <table align="center" style="width:100%">
 
@@ -228,21 +228,18 @@ permalink: /members/
   </tr>
 </table>
 
+<h3 style="color:blue;"> <u> Post-Doc Mentees </u> </h3>
+
 <table align="center" style="width:100%">
-<tr>
-    <th> Post-Doc Mentees</th>
-  </tr>
   <tr>
-    <td> - Dr. Jian Zhou (UCF), Summer 2020 (<b>co-mentored with Prof. Jun Wang</b>). (<b>first job:</b> Huazhong University of Science and Technology).  <br/><b>Achievement:</b> Modeling and evaluation of the Lelantus scheme</td>
+    <td> - Dr. Jian Zhou (UCF), Summer 2020 (<b>co-mentored with Prof. Jun Wang</b>). (<b>first job:</b> Assistant Professor at Huazhong University of Science and Technology).  <br/><b>Achievement:</b> Modeling and evaluation of the Lelantus scheme</td>
   </tr>
 </table>
 
 
-<table align="center" style="width:100%">
-<tr> 
-    <th>Master Graduates</th>
-  </tr>
+<h3 style="color:blue;"> <u> Master Graduates </u> </h3>
 
+<table align="center" style="width:100%">
   <tr>
     <td> - Abdullah Arafat (UCF), Summer 2020 (<b>first employment:</b> PhD student at UCF)</td>
   </tr>
@@ -252,12 +249,8 @@ permalink: /members/
   </tr>
 </table>
 
-
+<h3 style="color:blue;"> <u> Undergraduate Mentees </u> </h3>
 <table align="center" style="width:100%">
-  <tr> 
-    <th>Undergraduate Graduates</th>
-  </tr>
-
    <tr>
     <td> - Charles Stephens, Spring 2020 (<b>first employment:</b> Embedded Systems Engineer at Motorola)</td>
   </tr>
