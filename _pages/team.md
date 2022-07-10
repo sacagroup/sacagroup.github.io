@@ -208,7 +208,7 @@ permalink: /members/
 
 <table align="center" style="width:100%">
 <tr> 
-    <th> PhD Graduates</th>
+    <h2> <th> PhD Graduates</th> </h2>
   </tr>
 
 
