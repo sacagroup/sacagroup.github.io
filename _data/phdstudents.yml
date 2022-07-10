@@ -1,8 +1,3 @@
-- name: Kazi Zubair
-  photo: kazi.jpg
-  info: Kazi is a Ph.D. student majoring in Computer Engineering at NC State. His research interest includes secure memory architecture, NVM security, and memory reliability. He received his bachelor degree from the University of Chittagong, Bangladesh, and worked in the R&D of several startup companies in Bangladesh before joining SACA. At SACA, he published the first work addressing the recovery time in secure NVMs (Anubis ISCA'19).
-  expe:  
-
 - name: Joshua Kalyanapu
   photo: JOSHUA.jpeg
   info: Joshua Kalyanapu is a Ph.D. student in Computer Engineering at NC State. In May 2021, he received his bachelor's degree in Computer Engineering and Mathematics from Iowa State University. Although he has previously done research in neural networks and memory systems, his current research interest is in vehicle security.

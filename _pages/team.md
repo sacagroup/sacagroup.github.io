@@ -211,6 +211,13 @@ permalink: /members/
     <th> PhD Graduates</th>
   </tr>
 
+
+  <tr>
+    <td> - Dr. Kazi Zubair (NC State), Summer 2022 (<b>Currently:</b> CPU Architect at Intel (Product Team) in Santa Clara).  <br/><b>PhD achievements:</b> (1) Designing, modeling and evaluation for ultra-fast crash recovery schemes of secure NVMs (2) Inventing and evaluating novel schemes for improving reliability of secure NVMs. (3) Evaluating and designing efficient hardware support for supporting filesystem encryption in NVMs. 
+
+ </tr>
+
+
   <tr>
     <td> - Dr. Vamsee Reddy (UCF), Spring 2021 (<b>Currently:</b> Member of Technical Staff at AMD Research in Bellevue).  <br/><b>PhD achievements:</b> (1) Modeling of disaggregated NVM systems. (2) Modeling and evaulation of DeACT. (3) Inventing various QoS schemes in disaggregated memory systems..</td>
   </tr>
