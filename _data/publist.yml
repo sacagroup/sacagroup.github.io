@@ -1,6 +1,15 @@
 - year: Selected Publications
   pubs:
 
+  - title: "Horus: Persistent Security for Extended Persistence-Domain Memory Systems"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2022 (MICRO'22)"
+    team: "True"
+    authors:
+      Xijing Han, James Tuck and Amro Awad
+    link:
+      url:
+      display: MICRO'22 (Top-Tier Conference)
+
   - title: "Filesystem Encryption or Direct-Access for NVM Filesystems? Let’s Have Both!"
     team: "True"
     description: "IEEE International Symposium on High-Performance Computer Architecture, 2022 (HPCA'22)"
@@ -188,7 +197,14 @@
 - year: 2022
   pubs:
 
-
+  - title: "Horus: Persistent Security for Extended Persistence-Domain Memory Systems"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2022 (MICRO'22)"
+    team: "True"
+    authors:
+      Xijing Han, James Tuck and Amro Awad
+    link:
+      url:
+      display: MICRO'22 (Top-Tier Conference)
 
   - title: "Eris: Fault Injection and Tracking Framework for Reliability Analysis of Open-Source Hardware"
     description: "Proceedings of  the 2022 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2022)"
