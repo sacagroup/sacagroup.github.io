@@ -1,6 +1,35 @@
 - year: Selected Publications
   pubs:
 
+
+  - title: "Thoth: Bridging the Gap Between Persistently Secure Memories and Memory Interfaces of Emerging NVMs"
+    team: "True"
+    description: "IEEE International Symposium on High-Performance Computer Architecture, 2023 (HPCA'23)"
+    authors:
+      Xijing Han, James Tuck and Amro Awad
+    link:
+      url:
+      display: HPCA'23 (Top-Tier Conference)
+
+  - title: "Plutus: Bandwidth-Efficient Memory Security for GPUs"
+    team: "True"
+    description: "IEEE International Symposium on High-Performance Computer Architecture, 2023 (HPCA'23)"
+    authors:
+      Rahaf Abdullah, Huiyang Zhou and Amro Awad
+    link:
+      url:
+      display: HPCA'23 (Top-Tier Conference)
+
+  - title: "D-Shield: Enabling Processor-Side Encryption and Integrity Verification for Secure NVMe Drives"
+    team: "True"
+    description: "IEEE International Symposium on High-Performance Computer Architecture, 2023 (HPCA'23)"
+    authors:
+      Md Hafizul Islam Chowdhuryy, Myoungsoo Jung, Fan Yao and Amro Awad
+    link:  
+      url:
+      display: HPCA'23 (Top-Tier Conference)
+
+
   - title: "Horus: Persistent Security for Extended Persistence-Domain Memory Systems"
     description: "IEEE/ACM International Symposium on Microarchitecture, 2022 (MICRO'22)"
     team: "True"
@@ -192,7 +221,35 @@
 - year: All Publications
   pubs:
 
+- year: 2023
+  pubs:
 
+  - title: "Thoth: Bridging the Gap Between Persistently Secure Memories and Memory Interfaces of Emerging NVMs"
+    team: "True"
+    description: "IEEE International Symposium on High-Performance Computer Architecture, 2023 (HPCA'23)"
+    authors:
+      Xijing Han, James Tuck and Amro Awad
+    link:
+      url:
+      display: HPCA'23 (Top-Tier Conference)
+
+  - title: "Plutus: Bandwidth-Efficient Memory Security for GPUs"
+    team: "True"
+    description: "IEEE International Symposium on High-Performance Computer Architecture, 2023 (HPCA'23)"
+    authors:
+      Rahaf Abdullah, Huiyang Zhou and Amro Awad
+    link:
+      url:
+      display: HPCA'23 (Top-Tier Conference)
+
+  - title: "D-Shield: Enabling Processor-Side Encryption and Integrity Verification for Secure NVMe Drives"
+    team: "True"
+    description: "IEEE International Symposium on High-Performance Computer Architecture, 2023 (HPCA'23)"
+    authors:
+      Md Hafizul Islam Chowdhuryy, Myoungsoo Jung, Fan Yao and Amro Awad
+    link:
+      url:
+      display: HPCA'23 (Top-Tier Conference)
 
 - year: 2022
   pubs:
