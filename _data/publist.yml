@@ -1,6 +1,15 @@
 - year: Selected Publications
   pubs:
 
+  - title: "CryptoMMU: Enabling Scalable and Secure Access Control of Third-Party Accelerators"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2023 (MICRO'23)"
+    team: "True"
+    authors:
+      Faiz Alam^, Hyokeun Lee^, Abhishek Bhattacharjee and Amro Awad
+    link:
+      url:
+      display: MICRO'23 (Top-Tier Conference)
+
 
   - title: "Thoth: Bridging the Gap Between Persistently Secure Memories and Memory Interfaces of Emerging NVMs"
     team: "True"
@@ -223,6 +232,16 @@
 
 - year: 2023
   pubs:
+
+  - title: "CryptoMMU: Enabling Scalable and Secure Access Control of Third-Party Accelerators"
+    description: "IEEE/ACM International Symposium on Microarchitecture, 2023 (MICRO'23)"
+    team: "True"
+    authors:
+      Faiz Alam^, Hyokeun Lee^, Abhishek Bhattacharjee and Amro Awad
+    link:
+      url:
+      display: MICRO'23 (Top-Tier Conference)
+
 
   - title: "Thoth: Bridging the Gap Between Persistently Secure Memories and Memory Interfaces of Emerging NVMs"
     team: "True"
