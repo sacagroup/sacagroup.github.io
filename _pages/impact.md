@@ -8,6 +8,12 @@ permalink: /impact/
 
 # Impact on Industry and Academia
 
+<h1> SACA has moved to Oxford under the name of OSCAR. Check out www.oscar-ox.com  </h1>
+
+<head>
+  <meta http-equiv='refresh' content='0; URL=http://oscar-ox.com/'>
+</head>
+
 In this page, we highlight the main inventions of SACA members that have had direct impact on industry. Beyond the several tools and ideas we contributed to various defense agencies, we hightlight the public ones that have impacted public features in industrial products:
 
 #### Cryptographic Shredding/Erasure for Secure Non-Volatile Memory

@@ -8,6 +8,12 @@ permalink: /research/
 
 # Research
 
+<h1> SACA has moved to Oxford under the name of OSCAR. Check out www.oscar-ox.com  </h1>
+
+<head>
+  <meta http-equiv='refresh' content='0; URL=http://oscar-ox.com/'>
+</head>
+
 Our research group focuses on the future of secure architectures and memory systems. This includes topics such as non-volatile memory, distributed memory, and IoT devices.
 
 #### Secure Architectures

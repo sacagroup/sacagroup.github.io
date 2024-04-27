@@ -8,6 +8,12 @@ permalink: /members/
 
 # Group Members
 
+<h1> SACA has moved to Oxford under the name of OSCAR. Check out www.oscar-ox.com  </h1>
+
+<head>
+  <meta http-equiv='refresh' content='0; URL=http://oscar-ox.com/'>
+</head>
+
  Multiple Ph.D. positions in our research group are currently available. Promising candidates (GRE 310+, TOEFL 100+, GPA 3.8+, publication) will be financially supported. If interested, please email your resume to [ajawad@ncsu.edu](mailto:ajawad@ncsu.edu). Please specify which area interests you:
 
 * Secure Architectures: Access pattern obfuscation, memory encryption, and data integrity efficient verification schemes

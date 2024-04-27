@@ -6,6 +6,11 @@ sitemap: false
 permalink: /publications/
 ---
 
+<h1> SACA has moved to Oxford under the name of OSCAR. Check out www.oscar-ox.com  </h1>
+
+<head>
+  <meta http-equiv='refresh' content='0; URL=http://oscar-ox.com/'>
+</head>
 
 # Peer-Reviewed Publications and PrePrints
 {% for yr in site.data.publist %}
